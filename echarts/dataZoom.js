@@ -745,6 +745,7 @@ define(function (require) {
                 //change by chenglong 2014-10-24
                 if ( key === 'series') {
                     continue;
+                    // this.option[key] = this.option[key].slice(start, end);
                 }
                 for (var idx in target) {
                     data = target[idx];
@@ -762,6 +763,7 @@ define(function (require) {
                         this.option[key][idx].data = this._synScatterData(idx, data);
                     }
                 }
+
             }
 
             if (!this._isSilence && (this.zoomOption.realtime || dispatchNow)) {

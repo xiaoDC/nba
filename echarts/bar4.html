@@ -55,7 +55,9 @@ option = {
         }
     },
     legend: {
-        data:['直接访问', '邮件营销','联盟广告','视频广告']
+        x:'left',
+        y:'bottom',
+        data:['上篮', '抢断','盖帽','防守','三分','罚球','失误','犯规']
     },
     toolbox: {
         show : true,
@@ -73,10 +75,10 @@ option = {
         orient:'verical',
         x:10,
         width:20,
-        height:360,
+        height:280,
         zommlock:false,
-        start:40,
-        end:100
+        start:20,
+        end:50
     },
     calculable : true,
     xAxis : [
@@ -87,7 +89,7 @@ option = {
     yAxis : [
         {
             type : 'category',
-            data : ['周一','周二','周三','周四','周五','周六','周日']
+            data : ['周一','周二','周三','周四']
         }
     ],
     series : [
@@ -97,7 +99,11 @@ option = {
             stack: '总量',
             itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
             <!-- data:[320, 302, 301, 334, 390, 330, 320] -->
-            data:[11]
+
+            data:[{
+                value: 11,
+                name:'上篮'
+            }]
         },
         {
             name:'周二',
@@ -105,7 +111,13 @@ option = {
             stack: '总量',
             itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
             <!-- data:[120, 132, 101, 134, 90, 230, 210] -->
-            data:[21, 22]
+            data:[{
+                value: 21,
+                name:'上篮'
+            }, {
+                value: 22,
+                name:'失误'
+            }]
         },
         {
             name:'周三',
@@ -113,50 +125,33 @@ option = {
             stack: '总量',
             itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
             <!-- data:[220, 182, 191, 234, 290, 330, 310] -->
-            data:[31, 32, 33]
+
+            data:[{
+                value: 31,
+                name:'抢断'
+            },{
+                value: 32,
+                name:'失误'
+            },{
+                value: 33,
+                name:'罚球'
+            }]
         },
         {
             name:'周四',
             type:'bar',
             stack: '总量',
             itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
-            <!-- data:[150, 212, 201, 154, 190, 330, 410] -->
-            data:[41, 42, 43, 44]
-        },
-        {
-            name:'周五',
-            type:'bar',
-            stack: '总量',
-            itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
-            <!-- data:[150, 212, 201, 154, 190, 330, 410] -->
-            data:[51, 52, 53, 54, 55]
-        },
-        {
-            name:'周六',
-            type:'bar',
-            stack: '总量',
-            itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
-            <!-- data:[150, 212, 201, 154, 190, 330, 410] -->
-            data:[61, {
-                value: 62,
-                name:'直接访问',
-                itemStyle : {
-                    color : 'red',
-                    normal: {
-                        color:"red"
-                    },
-                    emphasis: {
-                        color : "#ccc"
-                    }
-                }
-            }, 63, 64, 65, 66]
-        },
-        {
-            name:'周日',
-            type:'bar',
-            stack: '总量',
-            itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
-            data:[171, 72, 73, 74, 75, 76, 77]
+            data:[{
+                value: 41,
+                name:'犯规'
+            },{
+                value: 42,
+                name:'防守'
+            },{
+                value: 43,
+                name:'罚球'
+            }]
         }
     ]
 };

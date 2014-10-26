@@ -33,7 +33,6 @@ define(function (require) {
         ComponentBase.call(this, ecTheme, messageCenter, zr, option, myChart);
         // 图表基类
         ChartBase.call(this);
-        
         this.refresh(option);
     }
     
@@ -138,8 +137,16 @@ define(function (require) {
                 serieName = serie.name;
                 if (legend){
                     this.selectedMap[serieName] = legend.isSelected(serieName);
-                    this._sIndex2colorMap[seriesArray[i]] =
-                        legend.getColor(serieName);
+                    //change by chenglong 2014-10-25
+                    var tempColor = [];
+                    for (var j = 0, m = serie.data.length; j < m; j++){
+                        if ( serie.data[j].name ){
+                            tempColor[j] = legend.getColor( serie.data[j].name );
+                        }else{
+                            tempColor[j] = null;
+                        }
+                    }
+                    this._sIndex2colorMap[seriesArray[i]] = tempColor;
                     
                     iconShape = legend.getItemShape(serieName);
                     if (iconShape) {
@@ -159,8 +166,17 @@ define(function (require) {
                     }
                 } else {
                     this.selectedMap[serieName] = true;
-                    this._sIndex2colorMap[seriesArray[i]] =
-                        this.zr.getColor(seriesArray[i]);
+
+                    //change by chenglong
+                    var tempColor = [];
+                    for (var j = 0, m = serie.data.length; j < m; j++){
+                        if ( serie.data[j].name ){
+                            tempColor[j] = this.zr.getColor(seriesArray[i]);
+                        }else{
+                            tempColor[j] = '';
+                        }
+                    }
+                    this._sIndex2colorMap[seriesArray[i]] = tempColor;
                 }
 
                 if (this.selectedMap[serieName]) {
@@ -417,7 +433,7 @@ define(function (require) {
             var series = this.series;
             series = series.reverse();
             // for (var ii=0, ll =series.length; ii < ll; ii++){
-            //     series[ii].data = series[ii].data.reverse();
+            //     series[ii].data = series[ii].data;
             // }
             // 确定类目轴和数值轴，同一方向随便找一个即可
             var seriesIndex = locationMap[0][0];
@@ -451,17 +467,22 @@ define(function (require) {
                 valueAxis = this.component.xAxis.getAxis(xAxisIndex);
                 // baseXP = lastXP = baseXN = lastXN = valueAxis.getCoord(0);
                 for (var j = 0, m = locationMap[i].length; j < m; j++) {
-                    if (categoryAxis.getNameByIndex(j) == null) {
-                        // 系列数据超出类目轴长度
-                        break;
-                    }
-                    y = categoryAxis.getCoordByIndex(j) + gap / 2;
                     seriesIndex = locationMap[i][j];
                     serie = series[seriesIndex];
+                    // if (categoryAxis.getNameByIndex(j) == null) {
+                    //     // 系列数据超出类目轴长度
+                    //     continue;
+                    // }
+                    var indexByName = categoryAxis.getIndexByName(serie.name);
+                    if ( indexByName < 0 ) {
+                        // 系列数据超出类目轴长度
+                        continue;
+                    }
+                    y = categoryAxis.getCoordByIndex(indexByName) + gap / 2;
                     baseXP = lastXP = baseXN = lastXN = valueAxis.getCoord(0);
 
                     for (var k = 0, n = serie.data.length; k < n; k++) {
-                        console.log( serie.data[k] );
+                        // console.log( serie.data[k] );
                         data = serie.data[k];
                         value = data != null ? (data.value != null ? data.value : data) : '-';
                         xMarkMap[seriesIndex] = xMarkMap[seriesIndex] || {
@@ -480,7 +501,6 @@ define(function (require) {
                             if (m === 1 && barMinHeightMap[seriesIndex] > barHeight) {
                                 barHeight = barMinHeightMap[seriesIndex];
                             }
-                            console.log(barHeight +',' + lastXP);
                             x = lastXP;
                             lastXP += barHeight;
                         } else if (value < 0) {
@@ -525,162 +545,17 @@ define(function (require) {
                                 barWidthMap[seriesIndex] || barWidth,
                                 'horizontal'
                             );
-                            var tt = new RectangleShape(barShape);
-                            console.log(tt);
-                            // this.shapeList.push(new RectangleShape(barShape));
-                            this.shapeList.push(tt);
+                            this.shapeList.push(new RectangleShape(barShape));
                         }
                     }
                 }
             }
-            // for (var i = 0, l = maxDataLength; i < l; i++) {
-            //     if (categoryAxis.getNameByIndex(i) == null) {
-            //         // 系列数据超出类目轴长度
-            //         break;
-            //     }
-            //     y = categoryAxis.getCoordByIndex(i) + gap / 2;
-            //     for (var j = 0, k = locationMap.length; j < k; j++) {
-            //         // 堆积数据用第一条valueAxis
-            //         xAxisIndex = series[locationMap[j][0]].xAxisIndex || 0;
-            //         valueAxis = this.component.xAxis.getAxis(xAxisIndex);
-            //         baseXP = lastXP = baseXN = lastXN = valueAxis.getCoord(0);
-            //         for (var m = 0, n = locationMap[j].length; m < n; m++) {
-            //             seriesIndex = locationMap[j][m];
-            //             serie = series[seriesIndex];
-            //             data = serie.data[i];
-            //             value = data != null
-            //                     ? (data.value != null
-            //                       ? data.value
-            //                       : data)
-            //                     : '-';
-            //             xMarkMap[seriesIndex] = xMarkMap[seriesIndex] 
-            //                                     || {
-            //                                         min: Number.POSITIVE_INFINITY,
-            //                                         max: Number.NEGATIVE_INFINITY,
-            //                                         sum: 0,
-            //                                         counter: 0,
-            //                                         average: 0
-            //                                     };
-            //             if (value === '-') {
-            //                 // 空数据在做完后补充拖拽提示框
-            //                 continue;
-            //             }
-            //             //x = valueAxis.getCoord(value);
-            //             if (value > 0) {
-            //                 // 正向堆积
-            //                 //barHeight = x - baseXP;
-            //                 barHeight = m > 0 
-            //                             ? valueAxis.getCoordSize(value)
-            //                             : (valueAxis.getCoord(value) - baseXP);
-            //                 // 非堆积数据最小高度有效
-            //                 if (n === 1
-            //                     && barMinHeightMap[seriesIndex] > barHeight
-            //                 ) {
-            //                     barHeight = barMinHeightMap[seriesIndex];
-            //                 }
-            //                 x = lastXP;
-            //                 lastXP += barHeight;
-            //             }
-            //             else if (value < 0){
-            //                 // 负向堆积
-            //                 //barHeight = baseXN - x;
-            //                 barHeight = m > 0 
-            //                             ? valueAxis.getCoordSize(value)
-            //                             : (baseXN - valueAxis.getCoord(value));
-            //                 // 非堆积数据最小高度有效
-            //                 if (n === 1
-            //                     && barMinHeightMap[seriesIndex] > barHeight
-            //                 ) {
-            //                     barHeight = barMinHeightMap[seriesIndex];
-            //                 }
-            //                 lastXN -= barHeight;
-            //                 x = lastXN;
-            //             }
-            //             else {
-            //                 // 0值
-            //                 barHeight = 0;//x - baseXP;
-            //                 // 最小高度无效
-            //                 x = lastXP;
-            //                 lastXP += barHeight;
-            //             }
 
-            //             xMarkMap[seriesIndex][i] = 
-            //                 y - (barWidthMap[seriesIndex] || barWidth) / 2;
-            //             if (xMarkMap[seriesIndex].min > value) {
-            //                 xMarkMap[seriesIndex].min = value;
-            //                 xMarkMap[seriesIndex].minX = x + barHeight;
-            //                 xMarkMap[seriesIndex].minY = xMarkMap[seriesIndex][i];
-            //             }
-            //             if (xMarkMap[seriesIndex].max < value) {
-            //                 xMarkMap[seriesIndex].max = value;
-            //                 xMarkMap[seriesIndex].maxX = x + barHeight;
-            //                 xMarkMap[seriesIndex].maxY = xMarkMap[seriesIndex][i];
-            //             }
-            //             xMarkMap[seriesIndex].sum += value;
-            //             xMarkMap[seriesIndex].counter++;
-                        
-            //             if (i % interval === 0) {
-            //                 barShape = this._getBarItem(
-            //                     seriesIndex, i,
-            //                     categoryAxis.getNameByIndex(i),
-            //                     x, y - (barWidthMap[seriesIndex] || barWidth),
-            //                     barHeight,
-            //                     barWidthMap[seriesIndex] || barWidth,
-            //                     'horizontal'
-            //                 );
-            //                 this.shapeList.push(new RectangleShape(barShape));
-            //             }
-            //         }
-
-            //         // 补充空数据的拖拽提示框
-            //         for (var m = 0, n = locationMap[j].length; m < n; m++) {
-            //             seriesIndex = locationMap[j][m];
-            //             serie = series[seriesIndex];
-            //             data = serie.data[i];
-            //             value = data != null
-            //                     ? (data.value != null
-            //                       ? data.value
-            //                       : data)
-            //                     : '-';
-            //             if (value != '-') {
-            //                 // 只关心空数据
-            //                 continue;
-            //             }
-
-            //             if (this.deepQuery(
-            //                     [data, serie, this.option], 'calculable'
-            //                 )
-            //             ) {
-            //                 x = lastXP;
-            //                 lastXP += this.ecTheme.island.r;
-
-            //                 barShape = this._getBarItem(
-            //                     seriesIndex,
-            //                     i,
-            //                     categoryAxis.getNameByIndex(i),
-            //                     x + 0.5, y + 0.5 - (barWidthMap[seriesIndex] || barWidth),
-            //                     this.ecTheme.island.r - 1,
-            //                     (barWidthMap[seriesIndex] || barWidth) - 1,
-            //                     'horizontal'
-            //                 );
-            //                 barShape.hoverable = false;
-            //                 barShape.draggable = false;
-            //                 barShape.style.lineWidth = 1;
-            //                 barShape.style.brushType = 'stroke';
-            //                 barShape.style.strokeColor =
-            //                         serie.calculableHolderColor
-            //                         || this.ecTheme.calculableHolderColor;
-
-            //                 this.shapeList.push(new RectangleShape(barShape));
-            //             }
-            //         }
-
-            //         y -= ((barWidthMap[seriesIndex] || barWidth) + barGap);
-            //     }
-            // }
-            
+            /*
+                可能对dataZoom造成影响
+            */
             for (var j = 0, k = locationMap.length; j < k; j++) {
-                for (var m = 0, n = locationMap[j].length; m < n; m++) {
+                for (var m in xMarkMap) {
                     seriesIndex = locationMap[j][m];
                     if (xMarkMap[seriesIndex].counter > 0) {
                         xMarkMap[seriesIndex].average = 
@@ -708,6 +583,7 @@ define(function (require) {
                     this.buildMark(seriesIndex);
                 }
             }
+            
         },
         
         /**
@@ -860,8 +736,13 @@ define(function (require) {
             var barShape;
             var serie = series[seriesIndex];
             var data = serie.data[dataIndex];
+            var legend = this.component.legend;
+            // var len = series.length-1;
             // 多级控制
-            var defaultColor = this._sIndex2colorMap[seriesIndex];
+            //change by chenglong 2014-10-25
+            // var defaultColor = this._sIndex2colorMap[seriesIndex];
+            var name = this.option.series[seriesIndex].data[dataIndex].name;
+            var defaultColor = legend.getColor( name );
             var queryTarget = [data, serie];
             var normalColor = this.deepQuery(
                 queryTarget,
