@@ -24,13 +24,13 @@
     /* Global variables */
 
     $(document).ready(function() {
-        courtobj = new VORPED.court();
+        courtobj = new VORPED.court(1.5);
         /* Draw court and all shot circles */
         court = courtobj.draw('court1', '');
-        obj_zone = new Zone14(courtobj, [],[]);
-        obj_zone.draw();
-        obj_zone.show(0);
-        court.selectAll(".shotzone_14").attr("fill","white");
+        // obj_zone = new Zone14(courtobj, [],[]);
+        // obj_zone.draw();
+        // obj_zone.show(0);
+        // court.selectAll(".shotzone_14").attr("fill","white");
 
         d3.select("svg").attr("style", "background-color: white");
         //do soething
