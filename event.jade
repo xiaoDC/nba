@@ -1,170 +1,115 @@
 extends layout
 block links
-  //- link(rel='stylesheet', href='public/index/stylesheets/metro.css')
-  link(rel='stylesheet', href='public/event/stylesheets/event.css')
+    //- link(rel='stylesheet', href='public/index/stylesheets/metro.css')
+    link(rel='stylesheet', href='public/event/stylesheets/event.css')
 
 block content
-  div(class='event_flow')
-    div(id='map',class='left')
-    div(id='map2',class='right')
+    div(class='event_flow')
+      div(id='map',class='left')
+      div(id='charts',class='right')
+            div(id='chart',class='north')
+            div(id='lineChart',class='south')
 
 
 block scriptsEnd
-  script(type="text/javascript", src="/dev/echarts/echarts-plain-original.js")
-  script.
-    var game_data;
-    seajs.config({
-      alias: {
-        'jquery': '/sea-modules/jquery/jquery/2.1.0/jquery',
-        'index' : '/public/index/javascripts/index',
-        'court':'/dev/components/court/src/court',
-        "Zone14":'/dev/components/court/src/Zone14',
-        'half_court':'/dev/components/court/src/half_court',
-        'd3' : '/sea-modules/gallery/d3/3.4.3/d3',
-        'json2echart_data':'/dev/components/json2echart_data/src/json2echart_data'
-      }
-    })
+      script(type="text/javascript", src="/dev/echarts/echarts-plain-original.js")
+      script(type="text/javascript", src="/dev/highcharts/highcharts.src.js")
+    script.
+             var game_data;
+             seajs.config({
+                    alias: {
+                          'jquery': '/sea-modules/jquery/jquery/2.1.0/jquery',
+                          'index' : '/public/index/javascripts/index',
+                          'court':'/dev/components/court/src/court',
+                          "Zone14":'/dev/components/court/src/Zone14',
+                          'half_court':'/dev/components/court/src/half_court',
+                          'd3' : '/sea-modules/gallery/d3/3.4.3/d3',
+                          'json2echart_data':'/dev/components/json2echart_data/src/json2echart_data'
+                    }
+             })
 
-    seajs.use(['jquery','court','d3','Zone14','half_court','json2echart_data'], function(jquery,VORPED,d3,Zone14,half_court,json2echart_data) {
+             seajs.use(['jquery','court','d3','Zone14','half_court','json2echart_data'], function($,VORPED,d3,Zone14,half_court,json2echart_data) {
+                    var courtWidth = $(".right").width(),
+                    ratio = courtWidth /1140;
+                    var courtObj = new VORPED.court(ratio);
+                    var court = courtObj.draw('court','');
 
-      //- var courtObj = new VORPED.court();
-      //- var court = courtObj.draw('court','');
+                    //- var halfcourtObj = new half_court.court();
+                    //- var halfcourt =  halfcourtObj.draw('court1','');
+                    //- var obj_zone = new Zone14(halfcourtObj,[],[]);
+                    //- obj_zone.draw();
+                    //- obj_zone.show(0);
+                    //- halfcourt.selectAll(".shotzone14").attr('fill','white');
 
-      var halfcourtObj = new half_court.court();
-      var halfcourt =  halfcourtObj.draw('court1','');
-      var obj_zone = new Zone14(halfcourtObj,[],[]);
-      obj_zone.draw();
-      obj_zone.show(0);
-      halfcourt.selectAll(".shotzone14").attr('fill','white');
+                    d3.select("svg").attr("style","background-color: white");
 
-      d3.select("svg").attr("style","background-color: white");
+                    //- var $ = new jquery();
+                    jQuery.getJSON('/public/data/game.json', function(nbajson){
+                          game_data = new json2echart_data(nbajson).getData();
+                          var height = $('#map')[0].scrollHeight;
+                          var option1 = {
+                                tooltip : {
+                                       trigger: 'axis',
+                                       axisPointer : {            // 坐标轴指示器，坐标轴触发有效
+                                             type : 'shadow'        // 默认为直线，可选为：'line' | 'shadow'
+                                       },
+                                       formatter:function(params){
+                                             var param = params[0][2];
+                                             //- console.log( params);
+                                             //- var result = 'name: ' + param[2].name + '---'
+                                             //- + 'data: ' + param[2].value;
+                                             var result = "";
+                                             for( key in param){
+                                                    result += key + " : " + param[key] + "<br/>";
+                                             }
+                                             return result;
+                                       }
+                                },
+                                legend: {
+                                       x:'left',
+                                       //- y:'bottom',
+                                       y:height*0.88,
+                                       data:game_data["@events"]
+                                },
+                                grid:{
+                                       //- height:height,
+                                       //- x:50,
+                                       //- y:50,
+                                       //- x2:50,
+                                       //- y2:50
+                                       height:height*0.72
+                                },
+                                dataZoom:{
+                                       show:true,
+                                       realtime:true,
+                                       orient:'verical',
+                                       x:10,
+                                       width:20,
+                                       height:height*0.72,
+                                       zommlock:false,
+                                       start:0,
+                                       end:8
+                                },
+                                calculable : true,
+                                xAxis : [{
+                                       type : 'value'
+                                }],
+                                yAxis : [{
+                                       type : 'category',
+                                       data : game_data["category"]
+                                }],
+                                series :game_data["@possessions"]
+                          };
+                          init_echarts( 'map', option1);
+                   })
+             })
 
-      //- var $ = new jquery();
-      jQuery.getJSON('/public/data/game.json', function(nbajson){
-        game_data = new json2echart_data(nbajson).getData();
-      });
-    })
+             function init_echarts(echartsId, option){
+                   var map = document.getElementById(echartsId);
 
-    function init_echarts(){
-      var map = document.getElementById('map');
-      var option = {
-        tooltip : {
-          trigger: 'axis',
-          axisPointer : {            // 坐标轴指示器，坐标轴触发有效
-            type : 'shadow'        // 默认为直线，可选为：'line' | 'shadow'
-          },
-          formatter:function(params){
-            //- var param = params[0];
-            console.log( params);
-            //- var result = 'name: ' + param[2].name + '---'
-            //- + 'data: ' + param[2].value;
-            return "";
-          }
-        },
-        legend: {
-          x:'left',
-          y:'bottom',
-          data:game_data["@event"]
-        },
-        dataZoom:{
-          show:true,
-          realtime:true,
-          orient:'verical',
-          x:10,
-          width:20,
-          height:280,
-          zommlock:false,
-          start:20,
-          end:50
-        },
-        calculable : true,
-        xAxis : [
-          {
-            type : 'value'
-          }
-        ],
-        yAxis : [{
-          type : 'category',
-          data : game_data["category"]
-        }],
-        series : [
-          {
-            name:'周一',
-            type:'bar',
-            stack: '总量',
-            itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
-            data:[
-              {
-                value: 11,
-                name:'上篮'
-              }
-            ]
-          },
-          {
-            name:'周二',
-            type:'bar',
-            stack: '总量',
-            itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
-            data:[
-              {
-                value: 21,
-                name:'上篮'
-              }, {
-                value: 22,
-                name:'失误'
-              }
-            ]
-          },
-          {
-            name:'周三',
-            type:'bar',
-            stack: '总量',
-            itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
-            data:[{
-              value: 31,
-              name:'抢断'
-            },{
-              value: 32,
-              name:'失误'
-            },{
-              value: 33,
-              name:'罚球'
-            }]
-          },
-          {
-            name:'周四',
-            type:'bar',
-            stack: '总量',
-            itemStyle : { normal: {label : {show: true, position: 'insideRight'}}},
-            data:[{
-              value: 41,
-              name:'犯规'
-            },{
-              value: 42,
-              name:'防守'
-            },{
-              value: 43,
-              name:'罚球'
-            }]
-          }
-        ]
-      };
+                   var myChart = echarts.init( map );
+                   myChart.setOption( option );
+            }
 
-      var myChart = echarts.init( map );
-      var config = echarts.config;
-
-      myChart.on( config.EVENT.CLICK, mapClick);
-
-      myChart.setOption( option );
-    }
-
-    function mapClick( params ){
-
-    }
-    function mapSelect( params ){
-
-    //- console.log( 'mapSelect' );
-    //- console.log(params);
-    }
 
 
