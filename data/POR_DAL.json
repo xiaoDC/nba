@@ -1,0 +1,3616 @@
+{
+    "game": {
+        "home-team": "Trail Blazers",
+        "away-team": "Mavericks",
+        "date": "10:00 PM ET, December 7, 2013",
+        "location": "Moda Center, Portland, OR",
+        "id": "400489171",
+        "url": "http://espn.go.com/nba/playbyplay?gameId=400489171&period=0",
+        "period": [{
+            "possession": [{
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Jump Ball",
+                    "time": "00:00:00.001",
+                    "gametime": "12:00",
+                    "score": "0-0"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:00:19.001",
+                    "gametime": "11:41",
+                    "score": "0-0",
+                    "distance": "16-foot",
+                    "shottype": "2",
+                    "player": "LaMarcus Aldridge"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:00:20.001",
+                    "gametime": "11:40",
+                    "score": "0-0",
+                    "player": "Dirk Nowitzki"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:00:37.001",
+                    "gametime": "11:23",
+                    "score": "0-0",
+                    "distance": "21-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:00:38.001",
+                    "gametime": "11:22",
+                    "score": "0-0",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:00:52.001",
+                    "gametime": "11:08",
+                    "score": "0-0",
+                    "distance": "5-foot",
+                    "shottype": "2",
+                    "player": "LaMarcus Aldridge"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:00:53.001",
+                    "gametime": "11:07",
+                    "score": "0-0",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:01:04.001",
+                    "gametime": "10:56",
+                    "score": "2-0",
+                    "shottype": "2",
+                    "player": "Monta Ellis"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:01:24.001",
+                    "gametime": "10:36",
+                    "score": "2-0",
+                    "player": "Nicolas Batum"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:01:42.001",
+                    "gametime": "10:18",
+                    "score": "2-0",
+                    "distance": "7-foot",
+                    "shottype": "2",
+                    "player": "DeJuan Blair"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:01:43.001",
+                    "gametime": "10:17",
+                    "score": "2-0",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:01:49.001",
+                    "gametime": "10:11",
+                    "score": "2-2",
+                    "distance": "21-foot",
+                    "shottype": "2",
+                    "player": "Damian Lillard"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:02:03.001",
+                    "gametime": "9:57",
+                    "score": "4-2",
+                    "shottype": "1",
+                    "player": "Monta Ellis"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:02:23.001",
+                    "gametime": "9:37",
+                    "score": "4-4",
+                    "shottype": "1",
+                    "player": "Wesley Matthews"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:02:34.001",
+                    "gametime": "9:26",
+                    "score": "6-4",
+                    "distance": "20-foot",
+                    "shottype": "2",
+                    "player": "Jose Calderon"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:02:48.001",
+                    "gametime": "9:12",
+                    "score": "6-4",
+                    "distance": "17-foot",
+                    "shottype": "2",
+                    "player": "LaMarcus Aldridge"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:02:49.001",
+                    "gametime": "9:11",
+                    "score": "6-4",
+                    "player": "Monta Ellis"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:02:54.001",
+                    "gametime": "9:06",
+                    "score": "9-4",
+                    "shottype": "3",
+                    "player": "Dirk Nowitzki"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:03:09.001",
+                    "gametime": "8:51",
+                    "score": "9-4",
+                    "player": "Robin Lopez"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Steal",
+                    "time": "00:03:09.011",
+                    "gametime": "8:51",
+                    "score": "9-4",
+                    "player": "Monta Ellis"
+                }, {
+                    "category": "Foul",
+                    "time": "00:03:12.001",
+                    "gametime": "8:48",
+                    "score": "9-4",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:03:12.011",
+                    "gametime": "8:48",
+                    "score": "10-4",
+                    "player": "Monta Ellis"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:03:12.021",
+                    "gametime": "8:48",
+                    "score": "11-4",
+                    "player": "Monta Ellis"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Missed Shot",
+                    "time": "00:03:23.001",
+                    "gametime": "8:37",
+                    "score": "11-4",
+                    "shottype": "3",
+                    "player": "Damian Lillard"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:03:27.001",
+                    "gametime": "8:33",
+                    "score": "11-4",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:03:30.001",
+                    "gametime": "8:30",
+                    "score": "11-6",
+                    "shottype": "2",
+                    "player": "Robin Lopez"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:03:48.001",
+                    "gametime": "8:12",
+                    "score": "13-6",
+                    "distance": "5-foot",
+                    "shottype": "2",
+                    "player": "DeJuan Blair"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Foul",
+                    "time": "00:03:58.001",
+                    "gametime": "8:02",
+                    "score": "13-6",
+                    "player": "Dirk Nowitzki"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:03:58.011",
+                    "gametime": "8:02",
+                    "score": "13-7",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:03:58.021",
+                    "gametime": "8:02",
+                    "score": "13-8",
+                    "player": "Robin Lopez"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Missed Shot",
+                    "time": "00:04:12.001",
+                    "gametime": "7:48",
+                    "score": "13-8",
+                    "distance": "20-foot",
+                    "shottype": "2",
+                    "player": "Monta Ellis"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:04:13.001",
+                    "gametime": "7:47",
+                    "score": "13-8",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:04:17.001",
+                    "gametime": "7:43",
+                    "score": "15-8",
+                    "shottype": "1",
+                    "player": "DeJuan Blair"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:04:23.001",
+                    "gametime": "7:37",
+                    "score": "15-10",
+                    "shottype": "1",
+                    "player": "Damian Lillard"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:04:38.001",
+                    "gametime": "7:22",
+                    "score": "15-10",
+                    "distance": "16-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:04:38.011",
+                    "gametime": "7:22",
+                    "score": "15-10",
+                    "player": "Wesley Matthews"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:04:55.001",
+                    "gametime": "7:05",
+                    "score": "15-10",
+                    "shottype": "3",
+                    "player": "Wesley Matthews"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:04:57.001",
+                    "gametime": "7:03",
+                    "score": "15-10",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:04:57.011",
+                    "gametime": "7:03",
+                    "score": "15-12",
+                    "shottype": "2",
+                    "player": "Robin Lopez"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:05:08.001",
+                    "gametime": "6:52",
+                    "score": "17-12",
+                    "distance": "22-foot",
+                    "shottype": "2",
+                    "player": "Jose Calderon"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Missed Shot",
+                    "time": "00:05:32.001",
+                    "gametime": "6:28",
+                    "score": "17-12",
+                    "shottype": "3",
+                    "player": "Damian Lillard"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:05:34.001",
+                    "gametime": "6:26",
+                    "score": "17-12",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:05:38.001",
+                    "gametime": "6:22",
+                    "score": "17-12",
+                    "shottype": "3",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:05:40.001",
+                    "gametime": "6:20",
+                    "score": "17-12",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:05:40.011",
+                    "gametime": "6:20",
+                    "score": "17-14",
+                    "distance": "2-foot",
+                    "shottype": "1",
+                    "player": "LaMarcus Aldridge"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:05:44.001"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:05:55.001",
+                    "gametime": "6:05",
+                    "score": "19-14",
+                    "distance": "18-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:06:08.001",
+                    "gametime": "5:52",
+                    "score": "19-14",
+                    "shottype": "3",
+                    "player": "Nicolas Batum"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, DeJuan Blair, Monta Ellis, Jose Calderon, Shawn Marion",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:06:10.001",
+                    "gametime": "5:50",
+                    "score": "19-14",
+                    "player": "Jose Calderon"
+                }, {
+                    "category": "Foul",
+                    "time": "00:06:19.001",
+                    "gametime": "5:41",
+                    "score": "19-14",
+                    "player": "Damian Lillard"
+                }, {
+                    "category": "Missed Free Throw",
+                    "time": "00:06:19.011",
+                    "gametime": "5:41",
+                    "score": "19-14",
+                    "player": "Jose Calderon"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:06:19.021",
+                    "gametime": "5:41",
+                    "score": "19-14"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:06:19.041",
+                    "gametime": "5:41",
+                    "score": "20-14",
+                    "player": "Jose Calderon"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "DeJuan Blair, Monta Ellis, Jose Calderon, Vince Carter, Shawn Marion",
+                "event": [{
+                    "category": "Foul",
+                    "time": "00:06:32.001",
+                    "gametime": "5:28",
+                    "score": "20-14",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:06:32.011",
+                    "gametime": "5:28",
+                    "score": "20-15",
+                    "player": "Damian Lillard"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:06:32.021",
+                    "gametime": "5:28",
+                    "score": "20-16",
+                    "player": "Damian Lillard"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "DeJuan Blair, Monta Ellis, Jose Calderon, Vince Carter, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:06:44.001",
+                    "gametime": "5:16",
+                    "score": "22-16",
+                    "shottype": "1",
+                    "player": "DeJuan Blair"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "DeJuan Blair, Monta Ellis, Jose Calderon, Vince Carter, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:07:04.001",
+                    "gametime": "4:56",
+                    "score": "22-19",
+                    "shottype": "3",
+                    "player": "Nicolas Batum"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Wesley Matthews",
+                "away-players": "DeJuan Blair, Monta Ellis, Jose Calderon, Vince Carter, Shawn Marion",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:07:21.001",
+                    "gametime": "4:39",
+                    "score": "22-19",
+                    "distance": "7-foot",
+                    "shottype": "2",
+                    "player": "DeJuan Blair"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Mo Williams",
+                "away-players": "DeJuan Blair, Monta Ellis, Jose Calderon, Vince Carter, Shawn Marion",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:07:23.001",
+                    "gametime": "4:37",
+                    "score": "22-19",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Foul",
+                    "time": "00:07:29.001",
+                    "gametime": "4:31",
+                    "score": "22-19",
+                    "player": "Jose Calderon"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:07:29.011",
+                    "gametime": "4:31",
+                    "score": "22-20",
+                    "player": "Damian Lillard"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:07:29.041",
+                    "gametime": "4:31",
+                    "score": "22-21",
+                    "player": "Damian Lillard"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Mo Williams",
+                "away-players": "Monta Ellis, Jose Calderon, Vince Carter, Samuel Dalembert, Shawn Marion",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:07:42.001",
+                    "gametime": "4:18",
+                    "score": "22-21",
+                    "shottype": "3",
+                    "player": "Jose Calderon"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Mo Williams",
+                "away-players": "Monta Ellis, Jose Calderon, Vince Carter, Samuel Dalembert, Shawn Marion",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:07:42.011",
+                    "gametime": "4:18",
+                    "score": "22-21",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:07:57.001",
+                    "gametime": "4:03",
+                    "score": "22-23",
+                    "distance": "18-foot",
+                    "shottype": "2",
+                    "player": "LaMarcus Aldridge"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Mo Williams",
+                "away-players": "Monta Ellis, Jose Calderon, Vince Carter, Samuel Dalembert, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:08:16.001",
+                    "gametime": "3:44",
+                    "score": "24-23",
+                    "shottype": "1",
+                    "player": "Jose Calderon"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Damian Lillard, Mo Williams",
+                "away-players": "Monta Ellis, Jose Calderon, Vince Carter, Samuel Dalembert, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:08:24.001",
+                    "gametime": "3:36",
+                    "score": "24-25",
+                    "shottype": "2",
+                    "player": "Mo Williams"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Nicolas Batum, Mo Williams, Wesley Matthews, Joel Freeland",
+                "away-players": "Monta Ellis, Jose Calderon, Vince Carter, Samuel Dalembert, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:08:44.001",
+                    "gametime": "3:16",
+                    "score": "26-25",
+                    "shottype": "1",
+                    "player": "Monta Ellis"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Nicolas Batum, Mo Williams, Wesley Matthews, Joel Freeland",
+                "away-players": "Monta Ellis, Vince Carter, Samuel Dalembert, Jae Crowder, Shawn Marion",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:08:58.001",
+                    "gametime": "3:02",
+                    "score": "26-25",
+                    "player": "Joel Freeland"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Nicolas Batum, Mo Williams, Wesley Matthews, Joel Freeland",
+                "away-players": "Monta Ellis, Vince Carter, Samuel Dalembert, Jae Crowder, Shawn Marion",
+                "event": [{
+                    "category": "Steal",
+                    "time": "00:08:58.011",
+                    "gametime": "3:02",
+                    "score": "26-25",
+                    "player": "Jae Crowder"
+                }, {
+                    "category": "Turnover",
+                    "time": "00:09:13.001",
+                    "gametime": "2:47",
+                    "score": "26-25",
+                    "player": "Samuel Dalembert"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Monta Ellis, Vince Carter, Samuel Dalembert, Jae Crowder, Shawn Marion",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:09:13.011"
+                }, {
+                    "category": "Turnover",
+                    "time": "00:09:30.001",
+                    "gametime": "2:30",
+                    "score": "26-25",
+                    "player": "Wesley Matthews"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki",
+                "event": [{
+                    "category": "Steal",
+                    "time": "00:09:30.011",
+                    "gametime": "2:30",
+                    "score": "26-25",
+                    "player": "Jae Crowder"
+                }, {
+                    "category": "Foul",
+                    "time": "00:09:39.001",
+                    "gametime": "2:21",
+                    "score": "26-25",
+                    "player": "Vince Carter"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki"
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:09:39.011",
+                    "gametime": "2:21",
+                    "score": "26-25",
+                    "player": "Vince Carter"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:09:48.001",
+                    "gametime": "2:12",
+                    "score": "26-25",
+                    "player": "LaMarcus Aldridge"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki",
+                "event": [{
+                    "category": "Foul",
+                    "time": "00:10:00.001",
+                    "gametime": "2:00",
+                    "score": "26-25",
+                    "player": "Mo Williams"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:10:11.001",
+                    "gametime": "1:49",
+                    "score": "26-25",
+                    "distance": "22-foot",
+                    "shottype": "2",
+                    "player": "Jae Crowder"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:10:13.001",
+                    "gametime": "1:47",
+                    "score": "26-25",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Foul",
+                    "time": "00:10:20.001",
+                    "gametime": "1:40",
+                    "score": "26-25",
+                    "player": "Gal Mekel"
+                }, {
+                    "category": "Missed Free Throw",
+                    "time": "00:10:20.011",
+                    "gametime": "1:40",
+                    "score": "26-25",
+                    "player": "Dorell Wright"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:10:20.021",
+                    "gametime": "1:40",
+                    "score": "26-25"
+                }, {
+                    "category": "Missed Free Throw",
+                    "time": "00:10:20.031",
+                    "gametime": "1:40",
+                    "score": "26-25",
+                    "player": "Dorell Wright"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:10:20.041",
+                    "gametime": "1:40",
+                    "score": "26-25"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:10:20.051",
+                    "gametime": "1:40",
+                    "score": "26-26",
+                    "player": "Dorell Wright"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:10:38.001",
+                    "gametime": "1:22",
+                    "score": "28-26",
+                    "distance": "8-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki",
+                "event": [{
+                    "category": "Missed Shot",
+                    "time": "00:11:00.001",
+                    "gametime": "1:00",
+                    "score": "28-26",
+                    "distance": "3-foot",
+                    "shottype": "1"
+                }, {
+                    "category": "Block",
+                    "time": "00:11:00.011",
+                    "gametime": "1:00",
+                    "score": "28-26",
+                    "player": "Samuel Dalembert"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:11:02.001",
+                    "gametime": "0:58",
+                    "score": "28-26",
+                    "player": "Vince Carter"
+                }, {
+                    "category": "Turnover",
+                    "time": "00:11:09.001",
+                    "gametime": "0:51",
+                    "score": "28-26",
+                    "player": "Gal Mekel"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki",
+                "event": [{
+                    "category": "Steal",
+                    "time": "00:11:09.011",
+                    "gametime": "0:51",
+                    "score": "28-26",
+                    "player": "Mo Williams"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:11:12.001",
+                    "gametime": "0:48",
+                    "score": "28-28",
+                    "shottype": "1",
+                    "player": "LaMarcus Aldridge"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:11:27.001",
+                    "gametime": "0:33",
+                    "score": "28-28",
+                    "player": "Vince Carter"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki",
+                "event": [{
+                    "category": "Steal",
+                    "time": "00:11:27.011",
+                    "gametime": "0:33",
+                    "score": "28-28",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:11:31.001",
+                    "gametime": "0:29",
+                    "score": "28-30",
+                    "shottype": "1",
+                    "player": "Dorell Wright"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:11:55.001",
+                    "gametime": "0:05",
+                    "score": "28-30",
+                    "distance": "17-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Mo Williams, Wesley Matthews, Joel Freeland, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Jae Crowder, Gal Mekel, Dirk Nowitzki",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:11:56.001",
+                    "gametime": "0:04",
+                    "score": "28-30",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:12:00.001",
+                    "gametime": "0:00",
+                    "score": "28-30",
+                    "shottype": "3",
+                    "player": "Dorell Wright"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:12:00.011",
+                    "gametime": "0:00",
+                    "score": "28-30"
+                }, {
+                    "category": "End of Period",
+                    "time": "00:12:00.021"
+                }]
+            }]
+        }, {
+            "possession": [{
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Dirk Nowitzki, Gal Mekel, Jae Crowder",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:00:22.001",
+                    "gametime": "11:38",
+                    "score": "30-30",
+                    "shottype": "1",
+                    "player": "Vince Carter"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Dirk Nowitzki, Gal Mekel, Jae Crowder",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:00:42.001",
+                    "gametime": "11:18",
+                    "score": "30-33",
+                    "shottype": "3",
+                    "player": "Damian Lillard"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Dirk Nowitzki, Gal Mekel, Jae Crowder",
+                "event": [{
+                    "category": "Missed Shot",
+                    "time": "00:00:57.001",
+                    "gametime": "11:03",
+                    "score": "30-33",
+                    "shottype": "1",
+                    "player": "Vince Carter"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:00:57.011",
+                    "gametime": "11:03",
+                    "score": "30-33",
+                    "player": "Samuel Dalembert"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:01:00.001",
+                    "gametime": "11:00",
+                    "score": "32-33",
+                    "distance": "10-foot",
+                    "shottype": "2",
+                    "player": "Vince Carter"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Dirk Nowitzki, Gal Mekel, Jae Crowder",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:01:12.001",
+                    "gametime": "10:48",
+                    "score": "32-33",
+                    "player": "Joel Freeland"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Dirk Nowitzki, Gal Mekel, Jae Crowder",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:01:33.001",
+                    "gametime": "10:27",
+                    "score": "32-33",
+                    "distance": "9-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Dirk Nowitzki, Gal Mekel, Jae Crowder",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:01:34.001",
+                    "gametime": "10:26",
+                    "score": "32-33",
+                    "player": "Joel Freeland"
+                }, {
+                    "category": "Turnover",
+                    "time": "00:01:38.001",
+                    "gametime": "10:22",
+                    "score": "32-33",
+                    "player": "Mo Williams"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Dirk Nowitzki, Gal Mekel, Jae Crowder",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:01:57.001",
+                    "gametime": "10:03",
+                    "score": "34-33",
+                    "distance": "18-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Dirk Nowitzki, Gal Mekel, Jae Crowder",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:02:23.001",
+                    "gametime": "9:37",
+                    "score": "34-35",
+                    "distance": "19-foot",
+                    "shottype": "2",
+                    "player": "Thomas Robinson"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Vince Carter, Samuel Dalembert, Dirk Nowitzki, Gal Mekel, Jae Crowder",
+                "event": [{
+                    "category": "Foul",
+                    "time": "00:02:42.001",
+                    "gametime": "9:18",
+                    "score": "34-35",
+                    "player": "Thomas Robinson"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:02:49.001",
+                    "gametime": "9:11",
+                    "score": "36-35",
+                    "distance": "2-foot",
+                    "shottype": "1",
+                    "player": "Gal Mekel"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Samuel Dalembert, Dirk Nowitzki, Monta Ellis, Gal Mekel, Jae Crowder",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:03:08.001",
+                    "gametime": "8:52",
+                    "score": "36-35",
+                    "player": "Thomas Robinson"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Samuel Dalembert, Dirk Nowitzki, Monta Ellis, Gal Mekel, Jae Crowder",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:03:08.011"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:03:23.001",
+                    "gametime": "8:37",
+                    "score": "39-35",
+                    "shottype": "3",
+                    "player": "Monta Ellis"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Samuel Dalembert, Dirk Nowitzki, Monta Ellis, Gal Mekel, Jae Crowder",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:03:38.001",
+                    "gametime": "8:22",
+                    "score": "39-35",
+                    "shottype": "3",
+                    "player": "Mo Williams"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Samuel Dalembert, Dirk Nowitzki, Monta Ellis, Gal Mekel, Jae Crowder",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:03:42.001",
+                    "gametime": "8:18",
+                    "score": "39-35",
+                    "player": "Gal Mekel"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:03:53.001",
+                    "gametime": "8:07",
+                    "score": "39-35",
+                    "distance": "21-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Samuel Dalembert, Dirk Nowitzki, Monta Ellis, Gal Mekel, Jae Crowder",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:03:54.001",
+                    "gametime": "8:06",
+                    "score": "39-35",
+                    "player": "Mo Williams"
+                }, {
+                    "category": "Foul",
+                    "time": "00:04:06.001",
+                    "gametime": "7:54",
+                    "score": "39-35",
+                    "player": "Dirk Nowitzki"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:04:12.001",
+                    "gametime": "7:48",
+                    "score": "39-35",
+                    "shottype": "3",
+                    "player": "Dorell Wright"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:04:13.001",
+                    "gametime": "7:47",
+                    "score": "39-35",
+                    "player": "Joel Freeland"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:04:21.001",
+                    "gametime": "7:39",
+                    "score": "39-37",
+                    "shottype": "1",
+                    "player": "Thomas Robinson"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, Joel Freeland, Mo Williams, Thomas Robinson, Dorell Wright",
+                "away-players": "Samuel Dalembert, Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:04:42.001",
+                    "gametime": "7:18",
+                    "score": "39-37",
+                    "distance": "8-foot",
+                    "shottype": "2",
+                    "player": "Samuel Dalembert"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, Mo Williams, Thomas Robinson, Robin Lopez, Nicolas Batum",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:04:44.001",
+                    "gametime": "7:16",
+                    "score": "39-37",
+                    "player": "Thomas Robinson"
+                }, {
+                    "category": "Foul",
+                    "time": "00:04:49.001",
+                    "gametime": "7:11",
+                    "score": "39-37",
+                    "player": "Monta Ellis"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:04:49.011",
+                    "gametime": "7:11",
+                    "score": "39-38",
+                    "player": "Damian Lillard"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:04:49.021",
+                    "gametime": "7:11",
+                    "score": "39-39",
+                    "player": "Damian Lillard"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:04:49.061",
+                    "gametime": "7:11",
+                    "score": "39-40",
+                    "player": "Damian Lillard"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, Mo Williams, Thomas Robinson, Robin Lopez, Nicolas Batum",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:05:00.001",
+                    "gametime": "7:00",
+                    "score": "39-40",
+                    "shottype": "3",
+                    "player": "Shawn Marion"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, Mo Williams, Thomas Robinson, Robin Lopez, Nicolas Batum",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:05:02.001",
+                    "gametime": "6:58",
+                    "score": "39-40",
+                    "player": "Mo Williams"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:05:15.001",
+                    "gametime": "6:45",
+                    "score": "39-40",
+                    "distance": "4-foot",
+                    "shottype": "2",
+                    "player": "Thomas Robinson"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, Mo Williams, Thomas Robinson, Robin Lopez, Nicolas Batum",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:05:17.001",
+                    "gametime": "6:43",
+                    "score": "39-40",
+                    "player": "Shawn Marion"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:05:25.001",
+                    "gametime": "6:35",
+                    "score": "39-40",
+                    "distance": "21-foot",
+                    "shottype": "2",
+                    "player": "Jose Calderon"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, Mo Williams, Thomas Robinson, Robin Lopez, Nicolas Batum",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:05:25.011",
+                    "gametime": "6:35",
+                    "score": "39-40",
+                    "player": "Thomas Robinson"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:05:34.001",
+                    "gametime": "6:26",
+                    "score": "39-40",
+                    "distance": "19-foot",
+                    "shottype": "2",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:05:34.011",
+                    "gametime": "6:26",
+                    "score": "39-40",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:05:38.001",
+                    "gametime": "6:22",
+                    "score": "39-42",
+                    "shottype": "1",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:05:38.011",
+                    "gametime": "6:22",
+                    "score": "39-40",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:05:38.021",
+                    "gametime": "6:22",
+                    "score": "39-42",
+                    "shottype": "2",
+                    "player": "Robin Lopez"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, Mo Williams, Thomas Robinson, Robin Lopez, Nicolas Batum",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:05:38.031"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:05:57.001",
+                    "gametime": "6:03",
+                    "score": "41-42",
+                    "distance": "2-foot",
+                    "shottype": "1",
+                    "player": "Monta Ellis"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, Mo Williams, Thomas Robinson, Robin Lopez, Nicolas Batum",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:06:10.001",
+                    "gametime": "5:50",
+                    "score": "41-44",
+                    "shottype": "2",
+                    "player": "Thomas Robinson"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, Mo Williams, Robin Lopez, Nicolas Batum, LaMarcus Aldridge",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": [{
+                    "category": "Foul",
+                    "time": "00:06:23.001",
+                    "gametime": "5:37",
+                    "score": "41-44",
+                    "player": "Mo Williams"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:06:30.001",
+                    "gametime": "5:30",
+                    "score": "43-44",
+                    "shottype": "1",
+                    "player": "DeJuan Blair"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Mo Williams, Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:06:49.001",
+                    "gametime": "5:11",
+                    "score": "43-44",
+                    "distance": "20-foot",
+                    "shottype": "2",
+                    "player": "Mo Williams"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Mo Williams, Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:06:51.001",
+                    "gametime": "5:09",
+                    "score": "43-44",
+                    "player": "Shawn Marion"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:06:57.001",
+                    "gametime": "5:03",
+                    "score": "45-44",
+                    "distance": "15-foot",
+                    "shottype": "2",
+                    "player": "Monta Ellis"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Mo Williams, Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:07:19.001",
+                    "gametime": "4:41",
+                    "score": "45-44",
+                    "shottype": "3",
+                    "player": "Wesley Matthews"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Mo Williams, Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:07:21.001",
+                    "gametime": "4:39",
+                    "score": "45-44",
+                    "player": "Shawn Marion"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:07:32.001",
+                    "gametime": "4:28",
+                    "score": "45-44",
+                    "distance": "11-foot",
+                    "shottype": "2",
+                    "player": "DeJuan Blair"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Mo Williams, Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:07:32.011",
+                    "gametime": "4:28",
+                    "score": "45-44",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:07:44.001",
+                    "gametime": "4:16",
+                    "score": "45-44",
+                    "distance": "15-foot",
+                    "shottype": "2",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:07:44.011",
+                    "gametime": "4:16",
+                    "score": "45-44"
+                }, {
+                    "category": "Foul",
+                    "time": "00:07:44.021",
+                    "gametime": "4:16",
+                    "score": "45-44",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:07:49.001",
+                    "gametime": "4:11",
+                    "score": "45-46",
+                    "distance": "22-foot",
+                    "shottype": "2",
+                    "player": "Mo Williams"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Mo Williams, Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:08:14.001",
+                    "gametime": "3:46",
+                    "score": "45-46",
+                    "shottype": "3",
+                    "player": "Monta Ellis"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Mo Williams, Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:08:16.001",
+                    "gametime": "3:44",
+                    "score": "45-46",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Turnover",
+                    "time": "00:08:20.001",
+                    "gametime": "3:40",
+                    "score": "45-46",
+                    "player": "Mo Williams"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Mo Williams, Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Shawn Marion, DeJuan Blair",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:08:39.001",
+                    "gametime": "3:21",
+                    "score": "47-46",
+                    "shottype": "1",
+                    "player": "Vince Carter"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews, Damian Lillard",
+                "away-players": "Monta Ellis, Jose Calderon, Shawn Marion, DeJuan Blair, Dirk Nowitzki",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:08:47.001"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:09:01.001",
+                    "gametime": "2:59",
+                    "score": "47-46",
+                    "distance": "23-foot",
+                    "shottype": "2",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:09:02.001",
+                    "gametime": "2:58",
+                    "score": "47-46",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:09:05.001",
+                    "gametime": "2:55",
+                    "score": "47-46",
+                    "shottype": "1",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:09:06.001",
+                    "gametime": "2:54",
+                    "score": "47-46",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Foul",
+                    "time": "00:09:06.011",
+                    "gametime": "2:54",
+                    "score": "47-46",
+                    "player": "Jose Calderon"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:09:10.001",
+                    "gametime": "2:50",
+                    "score": "47-49",
+                    "shottype": "3",
+                    "player": "Damian Lillard"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews, Damian Lillard",
+                "away-players": "Monta Ellis, Jose Calderon, Shawn Marion, DeJuan Blair, Dirk Nowitzki",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:09:30.001",
+                    "gametime": "2:30",
+                    "score": "47-49",
+                    "player": "Shawn Marion"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews, Damian Lillard",
+                "away-players": "Monta Ellis, Jose Calderon, Shawn Marion, DeJuan Blair, Dirk Nowitzki",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:09:45.001",
+                    "gametime": "2:15",
+                    "score": "47-49",
+                    "shottype": "3",
+                    "player": "Nicolas Batum"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews, Damian Lillard",
+                "away-players": "Monta Ellis, Jose Calderon, Shawn Marion, DeJuan Blair, Dirk Nowitzki",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:09:45.011",
+                    "gametime": "2:15",
+                    "score": "47-49",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:09:55.001",
+                    "gametime": "2:05",
+                    "score": "49-49",
+                    "shottype": "1",
+                    "player": "Jose Calderon"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews, Damian Lillard",
+                "away-players": "Monta Ellis, Jose Calderon, Shawn Marion, DeJuan Blair, Dirk Nowitzki",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:10:14.001",
+                    "gametime": "1:46",
+                    "score": "49-49",
+                    "distance": "19-foot",
+                    "shottype": "2",
+                    "player": "Wesley Matthews"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews, Damian Lillard",
+                "away-players": "Monta Ellis, Jose Calderon, Shawn Marion, DeJuan Blair, Dirk Nowitzki",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:10:15.001",
+                    "gametime": "1:45",
+                    "score": "49-49",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:10:25.001",
+                    "gametime": "1:35",
+                    "score": "49-49",
+                    "distance": "18-foot",
+                    "shottype": "2",
+                    "player": "Monta Ellis"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:10:26.001",
+                    "gametime": "1:34",
+                    "score": "49-49",
+                    "player": "Dirk Nowitzki"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:10:29.001",
+                    "gametime": "1:31",
+                    "score": "51-49",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews, Damian Lillard",
+                "away-players": "Monta Ellis, Jose Calderon, Shawn Marion, DeJuan Blair, Dirk Nowitzki",
+                "event": [{
+                    "category": "Missed Shot",
+                    "time": "00:10:45.001",
+                    "gametime": "1:15",
+                    "score": "51-49",
+                    "shottype": "2",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:10:46.001",
+                    "gametime": "1:14",
+                    "score": "51-49",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:10:46.011",
+                    "gametime": "1:14",
+                    "score": "51-51",
+                    "shottype": "2",
+                    "player": "Robin Lopez"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews, Damian Lillard",
+                "away-players": "Monta Ellis, Jose Calderon, Shawn Marion, DeJuan Blair, Dirk Nowitzki",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:10:55.001",
+                    "gametime": "1:05",
+                    "score": "53-51",
+                    "shottype": "1",
+                    "player": "Jose Calderon"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews, Damian Lillard",
+                "away-players": "Monta Ellis, Jose Calderon, Shawn Marion, DeJuan Blair, Dirk Nowitzki",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:11:11.001",
+                    "gametime": "0:49",
+                    "score": "53-51",
+                    "shottype": "1",
+                    "player": "Damian Lillard"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Robin Lopez, Nicolas Batum, LaMarcus Aldridge, Wesley Matthews, Damian Lillard",
+                "away-players": "Monta Ellis, Jose Calderon, Shawn Marion, DeJuan Blair, Dirk Nowitzki",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:11:13.001",
+                    "gametime": "0:47",
+                    "score": "53-51",
+                    "player": "Dirk Nowitzki"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:11:16.001",
+                    "gametime": "0:44",
+                    "score": "55-51",
+                    "shottype": "1",
+                    "player": "Shawn Marion"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Nicolas Batum, LaMarcus Aldridge, Wesley Matthews, Damian Lillard, Joel Freeland",
+                "away-players": "Monta Ellis, Shawn Marion, DeJuan Blair, Dirk Nowitzki, Jae Crowder",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:11:34.001"
+                }, {
+                    "category": "Foul",
+                    "time": "00:11:38.001",
+                    "gametime": "0:22",
+                    "score": "55-51",
+                    "player": "Monta Ellis"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:11:38.011",
+                    "gametime": "0:22",
+                    "score": "55-52",
+                    "player": "Damian Lillard"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:11:38.031",
+                    "gametime": "0:22",
+                    "score": "55-53",
+                    "player": "Damian Lillard"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Nicolas Batum, LaMarcus Aldridge, Wesley Matthews, Damian Lillard, Mo Williams",
+                "away-players": "Monta Ellis, Dirk Nowitzki, Vince Carter, Jose Calderon, DeJuan Blair",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:11:38.041"
+                }, {
+                    "category": "Foul",
+                    "time": "00:11:57.001",
+                    "gametime": "0:03",
+                    "score": "55-53",
+                    "player": "Wesley Matthews"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:12:00.001",
+                    "gametime": "0:00",
+                    "score": "55-53",
+                    "shottype": "3",
+                    "player": "Vince Carter"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:12:00.011",
+                    "gametime": "0:00",
+                    "score": "55-53"
+                }, {
+                    "category": "End of Period",
+                    "time": "00:12:00.021"
+                }]
+            }]
+        }, {
+            "possession": [{
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:00:18.001",
+                    "gametime": "11:42",
+                    "score": "58-53",
+                    "shottype": "3",
+                    "player": "Shawn Marion"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:00:38.001",
+                    "gametime": "11:22",
+                    "score": "58-55",
+                    "distance": "14-foot",
+                    "shottype": "2",
+                    "player": "LaMarcus Aldridge"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": [{
+                    "category": "Foul",
+                    "time": "00:00:50.001",
+                    "gametime": "11:10",
+                    "score": "58-55",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:00:50.011",
+                    "gametime": "11:10",
+                    "score": "59-55",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:00:50.021",
+                    "gametime": "11:10",
+                    "score": "60-55",
+                    "player": "DeJuan Blair"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:01:04.001",
+                    "gametime": "10:56",
+                    "score": "60-55",
+                    "distance": "19-foot",
+                    "shottype": "2",
+                    "player": "LaMarcus Aldridge"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:01:05.001",
+                    "gametime": "10:55",
+                    "score": "60-55",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:01:18.001",
+                    "gametime": "10:42",
+                    "score": "62-55",
+                    "shottype": "1",
+                    "player": "Jose Calderon"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:01:28.001",
+                    "gametime": "10:32",
+                    "score": "62-57",
+                    "distance": "21-foot",
+                    "shottype": "2",
+                    "player": "LaMarcus Aldridge"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:01:46.001",
+                    "gametime": "10:14",
+                    "score": "62-57",
+                    "distance": "10-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:01:49.001",
+                    "gametime": "10:11",
+                    "score": "62-57",
+                    "player": "Wesley Matthews"
+                }, {
+                    "category": "Foul",
+                    "time": "00:01:52.001",
+                    "gametime": "10:08",
+                    "score": "62-57",
+                    "player": "Monta Ellis"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:01:52.011",
+                    "gametime": "10:08",
+                    "score": "62-58",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:01:52.021",
+                    "gametime": "10:08",
+                    "score": "62-59",
+                    "player": "LaMarcus Aldridge"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:02:08.001",
+                    "gametime": "9:52",
+                    "score": "64-59",
+                    "distance": "14-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:02:24.001",
+                    "gametime": "9:36",
+                    "score": "64-61",
+                    "distance": "14-foot",
+                    "shottype": "2",
+                    "player": "Nicolas Batum"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:02:34.001",
+                    "gametime": "9:26",
+                    "score": "67-61",
+                    "shottype": "3",
+                    "player": "Dirk Nowitzki"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": [{
+                    "category": "Missed Shot",
+                    "time": "00:03:00.001",
+                    "gametime": "9:00",
+                    "score": "67-61",
+                    "shottype": "2",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:03:00.011",
+                    "gametime": "9:00",
+                    "score": "67-61",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Foul",
+                    "time": "00:03:00.021",
+                    "gametime": "9:00",
+                    "score": "67-61",
+                    "player": "Dirk Nowitzki"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:03:07.001",
+                    "gametime": "8:53",
+                    "score": "67-61",
+                    "shottype": "3",
+                    "player": "Damian Lillard"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:03:08.001",
+                    "gametime": "8:52",
+                    "score": "67-61",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:03:27.001",
+                    "gametime": "8:33",
+                    "score": "69-61",
+                    "distance": "8-foot",
+                    "shottype": "2",
+                    "player": "DeJuan Blair"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:03:42.001",
+                    "gametime": "8:18",
+                    "score": "69-61",
+                    "player": "Nicolas Batum"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": [{
+                    "category": "Steal",
+                    "time": "00:03:42.011",
+                    "gametime": "8:18",
+                    "score": "69-61",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:03:46.001",
+                    "gametime": "8:14",
+                    "score": "71-61",
+                    "shottype": "1",
+                    "player": "DeJuan Blair"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:03:46.011"
+                }, {
+                    "category": "Turnover",
+                    "time": "00:04:00.001",
+                    "gametime": "8:00",
+                    "score": "71-61",
+                    "player": "LaMarcus Aldridge"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": {
+                    "category": "Foul",
+                    "time": "00:04:12.001",
+                    "gametime": "7:48",
+                    "score": "71-61",
+                    "player": "DeJuan Blair"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis"
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:04:12.011",
+                    "gametime": "7:48",
+                    "score": "71-61",
+                    "player": "DeJuan Blair"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:04:25.001",
+                    "gametime": "7:35",
+                    "score": "71-63",
+                    "distance": "20-foot",
+                    "shottype": "2",
+                    "player": "Nicolas Batum"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, DeJuan Blair, Jose Calderon, Dirk Nowitzki, Monta Ellis",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:04:40.001",
+                    "gametime": "7:20",
+                    "score": "71-63",
+                    "distance": "14-foot",
+                    "shottype": "2",
+                    "player": "Monta Ellis"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, Jose Calderon, Dirk Nowitzki, Monta Ellis, Samuel Dalembert",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:04:40.011",
+                    "gametime": "7:20",
+                    "score": "71-63",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Foul",
+                    "time": "00:04:49.001",
+                    "gametime": "7:11",
+                    "score": "71-63",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:04:49.011",
+                    "gametime": "7:11",
+                    "score": "71-64",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Missed Free Throw",
+                    "time": "00:04:49.031",
+                    "gametime": "7:11",
+                    "score": "71-64",
+                    "player": "LaMarcus Aldridge"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, Jose Calderon, Dirk Nowitzki, Monta Ellis, Samuel Dalembert",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:04:51.001",
+                    "gametime": "7:09",
+                    "score": "71-64",
+                    "player": "Samuel Dalembert"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:05:06.001",
+                    "gametime": "6:54",
+                    "score": "71-64",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, Jose Calderon, Dirk Nowitzki, Monta Ellis, Samuel Dalembert",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:05:06.011",
+                    "gametime": "6:54",
+                    "score": "71-64",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Turnover",
+                    "time": "00:05:13.001",
+                    "gametime": "6:47",
+                    "score": "71-64",
+                    "player": "Nicolas Batum"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, Jose Calderon, Dirk Nowitzki, Monta Ellis, Samuel Dalembert",
+                "event": [{
+                    "category": "Steal",
+                    "time": "00:05:13.011",
+                    "gametime": "6:47",
+                    "score": "71-64",
+                    "player": "Jose Calderon"
+                }, {
+                    "category": "Turnover",
+                    "time": "00:05:29.001",
+                    "gametime": "6:31",
+                    "score": "71-64",
+                    "player": "Jose Calderon"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, Jose Calderon, Dirk Nowitzki, Monta Ellis, Samuel Dalembert",
+                "event": [{
+                    "category": "Steal",
+                    "time": "00:05:29.011",
+                    "gametime": "6:31",
+                    "score": "71-64",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Turnover",
+                    "time": "00:05:34.001",
+                    "gametime": "6:26",
+                    "score": "71-64",
+                    "player": "Nicolas Batum"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, Jose Calderon, Dirk Nowitzki, Monta Ellis, Samuel Dalembert",
+                "event": [{
+                    "category": "Steal",
+                    "time": "00:05:34.011",
+                    "gametime": "6:26",
+                    "score": "71-64",
+                    "player": "Jose Calderon"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:05:47.001",
+                    "gametime": "6:13",
+                    "score": "71-64",
+                    "distance": "22-foot",
+                    "shottype": "2",
+                    "player": "Jose Calderon"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, Jose Calderon, Dirk Nowitzki, Monta Ellis, Samuel Dalembert",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:05:49.001",
+                    "gametime": "6:11",
+                    "score": "71-64",
+                    "player": "Wesley Matthews"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:06:02.001",
+                    "gametime": "5:58",
+                    "score": "71-64",
+                    "distance": "5-foot",
+                    "shottype": "2"
+                }, {
+                    "category": "Block",
+                    "time": "00:06:02.011",
+                    "gametime": "5:58",
+                    "score": "71-64",
+                    "player": "Dirk Nowitzki"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:06:04.001",
+                    "gametime": "5:56",
+                    "score": "71-64"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:06:08.001",
+                    "gametime": "5:52",
+                    "score": "71-64",
+                    "shottype": "3",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:06:08.011",
+                    "gametime": "5:52",
+                    "score": "71-64",
+                    "player": "Wesley Matthews"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:06:08.021",
+                    "gametime": "5:52",
+                    "score": "71-66",
+                    "shottype": "2",
+                    "player": "Wesley Matthews"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, Jose Calderon, Dirk Nowitzki, Monta Ellis, Samuel Dalembert",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:06:30.001",
+                    "gametime": "5:30",
+                    "score": "71-66",
+                    "distance": "23-foot",
+                    "shottype": "2",
+                    "player": "Monta Ellis"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, Jose Calderon, Dirk Nowitzki, Monta Ellis, Samuel Dalembert",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:06:32.001",
+                    "gametime": "5:28",
+                    "score": "71-66",
+                    "player": "Wesley Matthews"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:06:38.001",
+                    "gametime": "5:22",
+                    "score": "71-66",
+                    "distance": "9-foot",
+                    "shottype": "2",
+                    "player": "Damian Lillard"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, Jose Calderon, Monta Ellis, Samuel Dalembert, Vince Carter",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:06:42.001",
+                    "gametime": "5:18",
+                    "score": "71-66"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:06:57.001",
+                    "gametime": "5:03",
+                    "score": "71-66",
+                    "shottype": "3",
+                    "player": "Vince Carter"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Damian Lillard",
+                "away-players": "Shawn Marion, Jose Calderon, Monta Ellis, Samuel Dalembert, Vince Carter",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:06:59.001",
+                    "gametime": "5:01",
+                    "score": "71-66",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:07:10.001",
+                    "gametime": "4:50",
+                    "score": "71-69",
+                    "shottype": "3",
+                    "player": "Nicolas Batum"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Mo Williams",
+                "away-players": "Shawn Marion, Jose Calderon, Monta Ellis, Vince Carter, Bernard James",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:07:10.011"
+                }, {
+                    "category": "Turnover",
+                    "time": "00:07:25.001",
+                    "gametime": "4:35",
+                    "score": "71-69",
+                    "player": "Monta Ellis"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Mo Williams",
+                "away-players": "Shawn Marion, Jose Calderon, Monta Ellis, Vince Carter, Bernard James",
+                "event": [{
+                    "category": "Steal",
+                    "time": "00:07:25.011",
+                    "gametime": "4:35",
+                    "score": "71-69",
+                    "player": "Wesley Matthews"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:07:40.001",
+                    "gametime": "4:20",
+                    "score": "71-71",
+                    "shottype": "1",
+                    "player": "Nicolas Batum"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Mo Williams",
+                "away-players": "Shawn Marion, Jose Calderon, Monta Ellis, Vince Carter, Bernard James",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:08:02.001",
+                    "gametime": "3:58",
+                    "score": "71-71",
+                    "shottype": "1",
+                    "player": "Vince Carter"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Mo Williams",
+                "away-players": "Shawn Marion, Jose Calderon, Monta Ellis, Vince Carter, Bernard James",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:08:03.001",
+                    "gametime": "3:57",
+                    "score": "71-71",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:08:09.001",
+                    "gametime": "3:51",
+                    "score": "71-71",
+                    "shottype": "3",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:08:11.001",
+                    "gametime": "3:49",
+                    "score": "71-71",
+                    "player": "Mo Williams"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:08:13.001",
+                    "gametime": "3:47",
+                    "score": "71-71",
+                    "shottype": "3",
+                    "player": "Wesley Matthews"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Mo Williams",
+                "away-players": "Shawn Marion, Jose Calderon, Monta Ellis, Vince Carter, Bernard James",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:08:15.001",
+                    "gametime": "3:45",
+                    "score": "71-71",
+                    "player": "Shawn Marion"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:08:26.001",
+                    "gametime": "3:34",
+                    "score": "73-71",
+                    "shottype": "1",
+                    "player": "Jose Calderon"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "LaMarcus Aldridge, Robin Lopez, Wesley Matthews, Nicolas Batum, Mo Williams",
+                "away-players": "Shawn Marion, Jose Calderon, Monta Ellis, Vince Carter, Bernard James",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:08:39.001",
+                    "gametime": "3:21",
+                    "score": "73-71",
+                    "player": "Nicolas Batum"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Robin Lopez, Wesley Matthews, Nicolas Batum, Mo Williams, Thomas Robinson",
+                "away-players": "Shawn Marion, Jose Calderon, Monta Ellis, Vince Carter, Bernard James",
+                "event": [{
+                    "category": "Foul",
+                    "time": "00:08:49.001",
+                    "gametime": "3:11",
+                    "score": "73-71",
+                    "player": "Mo Williams"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:08:55.001",
+                    "gametime": "3:05",
+                    "score": "73-71",
+                    "distance": "20-foot",
+                    "shottype": "2"
+                }, {
+                    "category": "Block",
+                    "time": "00:08:55.011",
+                    "gametime": "3:05",
+                    "score": "73-71",
+                    "player": "Nicolas Batum"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Robin Lopez, Wesley Matthews, Nicolas Batum, Mo Williams, Thomas Robinson",
+                "away-players": "Shawn Marion, Jose Calderon, Monta Ellis, Vince Carter, Bernard James",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:08:57.001",
+                    "gametime": "3:03",
+                    "score": "73-71",
+                    "player": "Thomas Robinson"
+                }, {
+                    "category": "Foul",
+                    "time": "00:09:06.001",
+                    "gametime": "2:54",
+                    "score": "73-71",
+                    "player": "Vince Carter"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:09:13.001",
+                    "gametime": "2:47",
+                    "score": "73-71",
+                    "shottype": "3",
+                    "player": "Mo Williams"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Robin Lopez, Wesley Matthews, Nicolas Batum, Mo Williams, Thomas Robinson",
+                "away-players": "Shawn Marion, Jose Calderon, Monta Ellis, Vince Carter, Bernard James",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:09:14.001",
+                    "gametime": "2:46",
+                    "score": "73-71",
+                    "player": "Bernard James"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:09:26.001",
+                    "gametime": "2:34",
+                    "score": "73-71",
+                    "shottype": "3",
+                    "player": "Shawn Marion"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Nicolas Batum, Mo Williams, Thomas Robinson, Dorell Wright, Joel Freeland",
+                "away-players": "Monta Ellis, Vince Carter, Bernard James, Dirk Nowitzki, Jae Crowder",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:09:27.001",
+                    "gametime": "2:33",
+                    "score": "73-71",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Foul",
+                    "time": "00:09:39.001",
+                    "gametime": "2:21",
+                    "score": "73-71",
+                    "player": "Jose Calderon"
+                }, {
+                    "category": "Missed Free Throw",
+                    "time": "00:09:39.011",
+                    "gametime": "2:21",
+                    "score": "73-71",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:09:39.021",
+                    "gametime": "2:21",
+                    "score": "73-71"
+                }, {
+                    "category": "Missed Free Throw",
+                    "time": "00:09:39.071",
+                    "gametime": "2:21",
+                    "score": "73-71",
+                    "player": "Nicolas Batum"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Nicolas Batum, Mo Williams, Thomas Robinson, Dorell Wright, Joel Freeland",
+                "away-players": "Monta Ellis, Vince Carter, Bernard James, Dirk Nowitzki, Jae Crowder",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:09:40.001",
+                    "gametime": "2:20",
+                    "score": "73-71",
+                    "player": "Dirk Nowitzki"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:09:56.001",
+                    "gametime": "2:04",
+                    "score": "73-71",
+                    "shottype": "2",
+                    "player": "Monta Ellis"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Nicolas Batum, Mo Williams, Thomas Robinson, Dorell Wright, Joel Freeland",
+                "away-players": "Monta Ellis, Vince Carter, Bernard James, Dirk Nowitzki, Jae Crowder",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:09:57.001",
+                    "gametime": "2:03",
+                    "score": "73-71",
+                    "player": "Joel Freeland"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:10:07.001",
+                    "gametime": "1:53",
+                    "score": "73-74",
+                    "shottype": "3",
+                    "player": "Nicolas Batum"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Nicolas Batum, Mo Williams, Thomas Robinson, Dorell Wright, Joel Freeland",
+                "away-players": "Monta Ellis, Vince Carter, Bernard James, Dirk Nowitzki, Jae Crowder",
+                "event": [{
+                    "category": "Foul",
+                    "time": "00:10:23.001",
+                    "gametime": "1:37",
+                    "score": "73-74",
+                    "player": "Joel Freeland"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:10:37.001",
+                    "gametime": "1:23",
+                    "score": "75-74",
+                    "shottype": "1",
+                    "player": "Dirk Nowitzki"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Nicolas Batum, Mo Williams, Thomas Robinson, Dorell Wright, Joel Freeland",
+                "away-players": "Monta Ellis, Vince Carter, Bernard James, Dirk Nowitzki, Jae Crowder",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:10:55.001",
+                    "gametime": "1:05",
+                    "score": "75-76",
+                    "distance": "20-foot",
+                    "shottype": "2",
+                    "player": "Mo Williams"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Nicolas Batum, Mo Williams, Thomas Robinson, Dorell Wright, Joel Freeland",
+                "away-players": "Monta Ellis, Vince Carter, Bernard James, Dirk Nowitzki, Jae Crowder",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:11:17.001",
+                    "gametime": "0:43",
+                    "score": "78-76",
+                    "shottype": "3",
+                    "player": "Jae Crowder"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Nicolas Batum, Mo Williams, Thomas Robinson, Dorell Wright, Joel Freeland",
+                "away-players": "Monta Ellis, Vince Carter, Bernard James, Dirk Nowitzki, Jae Crowder",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:11:34.001",
+                    "gametime": "0:26",
+                    "score": "78-76",
+                    "shottype": "3",
+                    "player": "Mo Williams"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Nicolas Batum, Mo Williams, Thomas Robinson, Dorell Wright, Joel Freeland",
+                "away-players": "Monta Ellis, Vince Carter, Bernard James, Dirk Nowitzki, Jae Crowder",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:11:39.001",
+                    "gametime": "0:21",
+                    "score": "78-76",
+                    "player": "Vince Carter"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:11:58.001",
+                    "gametime": "0:02",
+                    "score": "78-76",
+                    "distance": "8-foot",
+                    "shottype": "2",
+                    "player": "Monta Ellis"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:12:00.001",
+                    "gametime": "0:00",
+                    "score": "78-76",
+                    "player": "Bernard James"
+                }, {
+                    "category": "Foul",
+                    "time": "00:12:00.011",
+                    "gametime": "0:00",
+                    "score": "78-76",
+                    "player": "Thomas Robinson"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:12:00.021",
+                    "gametime": "0:00",
+                    "score": "79-76",
+                    "player": "Bernard James"
+                }, {
+                    "category": "Missed Free Throw",
+                    "time": "00:12:00.031",
+                    "gametime": "0:00",
+                    "score": "79-76",
+                    "player": "Bernard James"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Nicolas Batum, Mo Williams, Thomas Robinson, Dorell Wright, Joel Freeland",
+                "away-players": "Monta Ellis, Vince Carter, Bernard James, Dirk Nowitzki, Jae Crowder",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:12:00.041",
+                    "gametime": "0:00",
+                    "score": "79-76",
+                    "player": "Joel Freeland"
+                }, {
+                    "category": "End of Period",
+                    "time": "00:12:00.051"
+                }]
+            }]
+        }, {
+            "possession": [{
+                "team": "PORTLAND",
+                "home-players": "Dorell Wright, Damian Lillard, LaMarcus Aldridge, Joel Freeland, Mo Williams",
+                "away-players": "Dirk Nowitzki, Vince Carter, Bernard James, Jae Crowder, Gal Mekel",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:00:16.001",
+                    "gametime": "11:44",
+                    "score": "79-76",
+                    "shottype": "3",
+                    "player": "Dorell Wright"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Dorell Wright, Damian Lillard, LaMarcus Aldridge, Joel Freeland, Mo Williams",
+                "away-players": "Dirk Nowitzki, Vince Carter, Bernard James, Jae Crowder, Gal Mekel",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:00:18.001",
+                    "gametime": "11:42",
+                    "score": "79-76",
+                    "player": "Dirk Nowitzki"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:00:38.001",
+                    "gametime": "11:22",
+                    "score": "79-76",
+                    "shottype": "1",
+                    "player": "Vince Carter"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:00:38.011",
+                    "gametime": "11:22",
+                    "score": "79-76",
+                    "player": "Bernard James"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:00:46.001",
+                    "gametime": "11:14",
+                    "score": "79-76",
+                    "distance": "20-foot",
+                    "shottype": "2",
+                    "player": "Vince Carter"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Dorell Wright, Damian Lillard, LaMarcus Aldridge, Joel Freeland, Mo Williams",
+                "away-players": "Dirk Nowitzki, Vince Carter, Bernard James, Jae Crowder, Gal Mekel",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:00:49.001",
+                    "gametime": "11:11",
+                    "score": "79-76",
+                    "player": "Damian Lillard"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:01:01.001",
+                    "gametime": "10:59",
+                    "score": "79-78",
+                    "distance": "19-foot",
+                    "shottype": "2",
+                    "player": "LaMarcus Aldridge"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Dorell Wright, Damian Lillard, LaMarcus Aldridge, Joel Freeland, Mo Williams",
+                "away-players": "Dirk Nowitzki, Vince Carter, Bernard James, Jae Crowder, Gal Mekel",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:01:23.001",
+                    "gametime": "10:37",
+                    "score": "79-78",
+                    "player": "Vince Carter"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Dorell Wright, Damian Lillard, LaMarcus Aldridge, Joel Freeland, Mo Williams",
+                "away-players": "Dirk Nowitzki, Vince Carter, Bernard James, Jae Crowder, Gal Mekel",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:01:38.001",
+                    "gametime": "10:22",
+                    "score": "79-78",
+                    "distance": "19-foot",
+                    "shottype": "2",
+                    "player": "LaMarcus Aldridge"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Dorell Wright, Damian Lillard, LaMarcus Aldridge, Joel Freeland, Mo Williams",
+                "away-players": "Dirk Nowitzki, Vince Carter, Bernard James, Jae Crowder, Gal Mekel",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:01:38.011",
+                    "gametime": "10:22",
+                    "score": "79-78",
+                    "player": "Bernard James"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:01:54.001",
+                    "gametime": "10:06",
+                    "score": "82-78",
+                    "shottype": "3",
+                    "player": "Dirk Nowitzki"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Dorell Wright, Damian Lillard, LaMarcus Aldridge, Joel Freeland, Mo Williams",
+                "away-players": "Dirk Nowitzki, Vince Carter, Bernard James, Jae Crowder, Gal Mekel",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:02:15.001",
+                    "gametime": "9:45",
+                    "score": "82-78",
+                    "distance": "3-foot",
+                    "shottype": "1",
+                    "player": "LaMarcus Aldridge"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Dorell Wright, Damian Lillard, LaMarcus Aldridge, Joel Freeland, Mo Williams",
+                "away-players": "Dirk Nowitzki, Vince Carter, Bernard James, Jae Crowder, Gal Mekel",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:02:15.011",
+                    "gametime": "9:45",
+                    "score": "82-78",
+                    "player": "Jae Crowder"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:02:24.001",
+                    "gametime": "9:36",
+                    "score": "82-78",
+                    "shottype": "2",
+                    "player": "Gal Mekel"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Dorell Wright, Damian Lillard, LaMarcus Aldridge, Joel Freeland, Mo Williams",
+                "away-players": "Dirk Nowitzki, Vince Carter, Bernard James, Jae Crowder, Gal Mekel",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:02:26.001",
+                    "gametime": "9:34",
+                    "score": "82-78"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:02:42.001",
+                    "gametime": "9:18",
+                    "score": "82-78",
+                    "shottype": "2",
+                    "player": "Mo Williams"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Dorell Wright, Damian Lillard, LaMarcus Aldridge, Robin Lopez, Mo Williams",
+                "away-players": "Dirk Nowitzki, Vince Carter, Bernard James, Jae Crowder, Gal Mekel",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:02:43.001",
+                    "gametime": "9:17",
+                    "score": "82-78",
+                    "player": "Bernard James"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:02:56.001",
+                    "gametime": "9:04",
+                    "score": "82-78",
+                    "distance": "4-foot",
+                    "shottype": "2",
+                    "player": "Bernard James"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Dorell Wright, Damian Lillard, LaMarcus Aldridge, Robin Lopez, Mo Williams",
+                "away-players": "Dirk Nowitzki, Vince Carter, Bernard James, Jae Crowder, Gal Mekel",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:02:57.001",
+                    "gametime": "9:03",
+                    "score": "82-78",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Turnover",
+                    "time": "00:03:04.001",
+                    "gametime": "8:56",
+                    "score": "82-78",
+                    "player": "Damian Lillard"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Dorell Wright, Damian Lillard, LaMarcus Aldridge, Robin Lopez, Mo Williams",
+                "away-players": "Dirk Nowitzki, Vince Carter, Bernard James, Jae Crowder, Gal Mekel",
+                "event": [{
+                    "category": "Steal",
+                    "time": "00:03:04.011",
+                    "gametime": "8:56",
+                    "score": "82-78",
+                    "player": "Jae Crowder"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:03:15.001",
+                    "gametime": "8:45",
+                    "score": "82-78",
+                    "distance": "3-foot",
+                    "shottype": "1"
+                }, {
+                    "category": "Block",
+                    "time": "00:03:15.011",
+                    "gametime": "8:45",
+                    "score": "82-78",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:03:18.001",
+                    "gametime": "8:42",
+                    "score": "82-78",
+                    "player": "Vince Carter"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:03:20.001",
+                    "gametime": "8:40",
+                    "score": "85-78",
+                    "shottype": "3",
+                    "player": "Gal Mekel"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, Bernard James, Jae Crowder, Gal Mekel, Monta Ellis",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:03:20.011"
+                }, {
+                    "category": "Turnover",
+                    "time": "00:03:35.001",
+                    "gametime": "8:25",
+                    "score": "85-78",
+                    "player": "LaMarcus Aldridge"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, Bernard James, Jae Crowder, Gal Mekel, Monta Ellis",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:03:50.001",
+                    "gametime": "8:10",
+                    "score": "87-78",
+                    "shottype": "1",
+                    "player": "Bernard James"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, Bernard James, Jae Crowder, Gal Mekel, Monta Ellis",
+                "event": [{
+                    "category": "Foul",
+                    "time": "00:04:00.001",
+                    "gametime": "8:00",
+                    "score": "87-78",
+                    "player": "Gal Mekel"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:04:04.001",
+                    "gametime": "7:56",
+                    "score": "87-78",
+                    "distance": "3-foot",
+                    "shottype": "1"
+                }, {
+                    "category": "Block",
+                    "time": "00:04:04.011",
+                    "gametime": "7:56",
+                    "score": "87-78",
+                    "player": "Bernard James"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:04:06.001",
+                    "gametime": "7:54",
+                    "score": "87-78",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:04:10.001",
+                    "gametime": "7:50",
+                    "score": "87-80",
+                    "shottype": "1",
+                    "player": "Robin Lopez"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, Bernard James, Jae Crowder, Gal Mekel, Monta Ellis",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:04:19.001",
+                    "gametime": "7:41",
+                    "score": "89-80",
+                    "shottype": "2",
+                    "player": "Gal Mekel"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, Bernard James, Jae Crowder, Gal Mekel, Monta Ellis",
+                "event": [{
+                    "category": "Missed Shot",
+                    "time": "00:04:36.001",
+                    "gametime": "7:24",
+                    "score": "89-80",
+                    "distance": "8-foot",
+                    "shottype": "2",
+                    "player": "Wesley Matthews"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:04:38.001",
+                    "gametime": "7:22",
+                    "score": "89-80",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:04:38.011",
+                    "gametime": "7:22",
+                    "score": "89-82",
+                    "shottype": "2",
+                    "player": "LaMarcus Aldridge"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, Bernard James, Jae Crowder, Gal Mekel, Monta Ellis",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:04:59.001",
+                    "gametime": "7:01",
+                    "score": "89-82",
+                    "distance": "8-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Dirk Nowitzki, Bernard James, Jae Crowder, Gal Mekel, Monta Ellis",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:04:59.011",
+                    "gametime": "7:01",
+                    "score": "89-82",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:05:08.001",
+                    "gametime": "6:52",
+                    "score": "89-84",
+                    "shottype": "1",
+                    "player": "Damian Lillard"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Bernard James, Monta Ellis, Vince Carter, Shawn Marion, Jose Calderon",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:05:08.011"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:05:23.001",
+                    "gametime": "6:37",
+                    "score": "91-84",
+                    "shottype": "1",
+                    "player": "Vince Carter"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Bernard James, Monta Ellis, Vince Carter, Shawn Marion, Jose Calderon",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:05:38.001",
+                    "gametime": "6:22",
+                    "score": "91-86",
+                    "distance": "21-foot",
+                    "shottype": "2",
+                    "player": "Damian Lillard"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Bernard James, Monta Ellis, Vince Carter, Shawn Marion, Jose Calderon",
+                "event": [{
+                    "category": "Missed Shot",
+                    "time": "00:05:55.001",
+                    "gametime": "6:05",
+                    "score": "91-86",
+                    "shottype": "1"
+                }, {
+                    "category": "Block",
+                    "time": "00:05:55.011",
+                    "gametime": "6:05",
+                    "score": "91-86",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:05:55.021",
+                    "gametime": "6:05",
+                    "score": "91-86",
+                    "player": "Bernard James"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:05:57.001",
+                    "gametime": "6:03",
+                    "score": "93-86",
+                    "shottype": "1",
+                    "player": "Bernard James"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Bernard James, Monta Ellis, Vince Carter, Shawn Marion, Jose Calderon",
+                "event": [{
+                    "category": "Missed Shot",
+                    "time": "00:06:15.001",
+                    "gametime": "5:45",
+                    "score": "93-86",
+                    "shottype": "2",
+                    "player": "Robin Lopez"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:06:17.001",
+                    "gametime": "5:43",
+                    "score": "93-86",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:06:21.001",
+                    "gametime": "5:39",
+                    "score": "93-86",
+                    "shottype": "3",
+                    "player": "Wesley Matthews"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:06:21.011",
+                    "gametime": "5:39",
+                    "score": "93-86",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Foul",
+                    "time": "00:06:21.021",
+                    "gametime": "5:39",
+                    "score": "93-86",
+                    "player": "Shawn Marion"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:06:21.031",
+                    "gametime": "5:39",
+                    "score": "93-87",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:06:21.041",
+                    "gametime": "5:39",
+                    "score": "93-88",
+                    "player": "LaMarcus Aldridge"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Bernard James, Monta Ellis, Vince Carter, Shawn Marion, Jose Calderon",
+                "event": {
+                    "category": "Foul",
+                    "time": "00:06:30.001",
+                    "gametime": "5:30",
+                    "score": "93-88",
+                    "player": "Vince Carter"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Bernard James, Monta Ellis, Vince Carter, Shawn Marion, Jose Calderon"
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Bernard James, Monta Ellis, Vince Carter, Shawn Marion, Jose Calderon",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:06:30.011",
+                    "gametime": "5:30",
+                    "score": "93-88",
+                    "player": "Vince Carter"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Dirk Nowitzki, DeJuan Blair",
+                "event": [{
+                    "category": "Foul",
+                    "time": "00:06:38.001",
+                    "gametime": "5:22",
+                    "score": "93-88",
+                    "player": "Monta Ellis"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:06:44.001",
+                    "gametime": "5:16",
+                    "score": "93-88",
+                    "shottype": "3",
+                    "player": "Nicolas Batum"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Dirk Nowitzki, DeJuan Blair",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:06:45.001",
+                    "gametime": "5:15",
+                    "score": "93-88",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:06:57.001",
+                    "gametime": "5:03",
+                    "score": "93-88",
+                    "shottype": "2",
+                    "player": "Monta Ellis"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Dirk Nowitzki, DeJuan Blair",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:06:59.001",
+                    "gametime": "5:01",
+                    "score": "93-88",
+                    "player": "Wesley Matthews"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:07:06.001",
+                    "gametime": "4:54",
+                    "score": "93-88",
+                    "shottype": "1",
+                    "player": "Wesley Matthews"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Dirk Nowitzki, DeJuan Blair",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:07:08.001",
+                    "gametime": "4:52",
+                    "score": "93-88",
+                    "player": "Vince Carter"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:07:13.001",
+                    "gametime": "4:47",
+                    "score": "93-88",
+                    "shottype": "3",
+                    "player": "Vince Carter"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Dirk Nowitzki, DeJuan Blair",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:07:14.001",
+                    "gametime": "4:46",
+                    "score": "93-88",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:07:21.001",
+                    "gametime": "4:39",
+                    "score": "93-88",
+                    "shottype": "1",
+                    "player": "Damian Lillard"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Dirk Nowitzki, DeJuan Blair",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:07:23.001",
+                    "gametime": "4:37",
+                    "score": "93-88",
+                    "player": "Jose Calderon"
+                }, {
+                    "category": "Foul",
+                    "time": "00:07:27.001",
+                    "gametime": "4:33",
+                    "score": "93-88",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:07:27.011",
+                    "gametime": "4:33",
+                    "score": "94-88",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Missed Free Throw",
+                    "time": "00:07:27.031",
+                    "gametime": "4:33",
+                    "score": "94-88",
+                    "player": "DeJuan Blair"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:07:27.041",
+                    "gametime": "4:33",
+                    "score": "94-88",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:07:34.001",
+                    "gametime": "4:26",
+                    "score": "94-91",
+                    "shottype": "3",
+                    "player": "Damian Lillard"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": {
+                    "category": "Turnover",
+                    "time": "00:07:53.001",
+                    "gametime": "4:07",
+                    "score": "94-91",
+                    "player": "Monta Ellis"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:08:02.001",
+                    "gametime": "3:58",
+                    "score": "94-94",
+                    "shottype": "3",
+                    "player": "Damian Lillard"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:08:02.011"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:08:13.001",
+                    "gametime": "3:47",
+                    "score": "96-94",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:08:39.001",
+                    "gametime": "3:21",
+                    "score": "96-94",
+                    "distance": "8-foot",
+                    "shottype": "2",
+                    "player": "Damian Lillard"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:08:40.001",
+                    "gametime": "3:20",
+                    "score": "96-94",
+                    "player": "DeJuan Blair"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:08:51.001",
+                    "gametime": "3:09",
+                    "score": "98-94",
+                    "distance": "15-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:09:13.001",
+                    "gametime": "2:47",
+                    "score": "98-96",
+                    "distance": "4-foot",
+                    "shottype": "2",
+                    "player": "Robin Lopez"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:09:25.001",
+                    "gametime": "2:35",
+                    "score": "98-96",
+                    "shottype": "3",
+                    "player": "Dirk Nowitzki"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:09:26.001",
+                    "gametime": "2:34",
+                    "score": "98-96",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Foul",
+                    "time": "00:09:31.001",
+                    "gametime": "2:29",
+                    "score": "98-96",
+                    "player": "Jose Calderon"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:09:31.011",
+                    "gametime": "2:29",
+                    "score": "98-97",
+                    "player": "Nicolas Batum"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:09:31.021",
+                    "gametime": "2:29",
+                    "score": "98-98",
+                    "player": "Nicolas Batum"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": [{
+                    "category": "Made Shot",
+                    "time": "00:09:45.001",
+                    "gametime": "2:15",
+                    "score": "100-98",
+                    "distance": "14-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }, {
+                    "category": "Foul",
+                    "time": "00:09:45.011",
+                    "gametime": "2:15",
+                    "score": "100-98",
+                    "player": "Damian Lillard"
+                }, {
+                    "category": "Made Free Throw",
+                    "time": "00:09:45.021",
+                    "gametime": "2:15",
+                    "score": "101-98",
+                    "player": "Dirk Nowitzki"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:10:00.001",
+                    "gametime": "2:00",
+                    "score": "101-100",
+                    "distance": "13-foot",
+                    "shottype": "2",
+                    "player": "Nicolas Batum"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": {
+                    "category": "Made Shot",
+                    "time": "00:10:20.001",
+                    "gametime": "1:40",
+                    "score": "104-100",
+                    "shottype": "3",
+                    "player": "Monta Ellis"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:10:35.001",
+                    "gametime": "1:25",
+                    "score": "104-100",
+                    "shottype": "3",
+                    "player": "Damian Lillard"
+                }
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Robin Lopez, Nicolas Batum, Wesley Matthews",
+                "away-players": "Monta Ellis, Jose Calderon, Dirk Nowitzki, DeJuan Blair, Shawn Marion",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:10:36.001",
+                    "gametime": "1:24",
+                    "score": "104-100",
+                    "player": "Dirk Nowitzki"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:10:55.001",
+                    "gametime": "1:05",
+                    "score": "104-100",
+                    "distance": "12-foot",
+                    "shottype": "2",
+                    "player": "Dirk Nowitzki"
+                }, {
+                    "category": "Offensive Rebound",
+                    "time": "00:10:59.001",
+                    "gametime": "1:01",
+                    "score": "104-100"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:11:15.001",
+                    "gametime": "0:45",
+                    "score": "106-100",
+                    "distance": "12-foot",
+                    "shottype": "2",
+                    "player": "Monta Ellis"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Nicolas Batum, Wesley Matthews, Mo Williams",
+                "away-players": "Monta Ellis, Dirk Nowitzki, Shawn Marion, Jae Crowder, Vince Carter",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:11:15.011"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:11:22.001",
+                    "gametime": "0:38",
+                    "score": "106-103",
+                    "shottype": "3",
+                    "player": "Nicolas Batum"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Nicolas Batum, Wesley Matthews, Mo Williams",
+                "away-players": "Monta Ellis, Dirk Nowitzki, Shawn Marion, Jae Crowder, Vince Carter",
+                "event": {
+                    "category": "Missed Shot",
+                    "time": "00:11:42.001",
+                    "gametime": "0:18",
+                    "score": "106-103",
+                    "distance": "7-foot",
+                    "shottype": "2",
+                    "player": "Monta Ellis"
+                }
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Nicolas Batum, Wesley Matthews, Mo Williams",
+                "away-players": "Monta Ellis, Dirk Nowitzki, Shawn Marion, Jae Crowder, Vince Carter",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:11:43.001",
+                    "gametime": "0:17",
+                    "score": "106-103",
+                    "player": "Wesley Matthews"
+                }, {
+                    "category": "Missed Shot",
+                    "time": "00:11:50.001",
+                    "gametime": "0:10",
+                    "score": "106-103",
+                    "shottype": "3",
+                    "player": "Mo Williams"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Nicolas Batum, Wesley Matthews, Mo Williams",
+                "away-players": "Monta Ellis, Dirk Nowitzki, Shawn Marion, Jae Crowder, Vince Carter",
+                "event": [{
+                    "category": "Defensive Rebound",
+                    "time": "00:11:51.001",
+                    "gametime": "0:09",
+                    "score": "106-103",
+                    "player": "Jae Crowder"
+                }, {
+                    "category": "Foul",
+                    "time": "00:11:51.011",
+                    "gametime": "0:09",
+                    "score": "106-103",
+                    "player": "LaMarcus Aldridge"
+                }, {
+                    "category": "Timeout",
+                    "time": "00:11:51.031"
+                }, {
+                    "category": "Turnover",
+                    "time": "00:11:54.001",
+                    "gametime": "0:06",
+                    "score": "106-103",
+                    "player": "Monta Ellis"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Nicolas Batum, Wesley Matthews, Robin Lopez",
+                "away-players": "Monta Ellis, Shawn Marion, Vince Carter, Jose Calderon, Jae Crowder",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:11:54.011"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:11:59.001",
+                    "gametime": "0:01",
+                    "score": "106-106",
+                    "shottype": "3",
+                    "player": "Damian Lillard"
+                }]
+            }, {
+                "team": "DALLAS",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Nicolas Batum, Wesley Matthews, Mo Williams",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Dirk Nowitzki, DeJuan Blair",
+                "event": [{
+                    "category": "Timeout",
+                    "time": "00:11:59.021"
+                }, {
+                    "category": "Made Shot",
+                    "time": "00:12:00.001",
+                    "gametime": "0:00",
+                    "score": "108-106",
+                    "distance": "21-foot",
+                    "shottype": "2",
+                    "player": "Monta Ellis"
+                }]
+            }, {
+                "team": "PORTLAND",
+                "home-players": "Damian Lillard, LaMarcus Aldridge, Nicolas Batum, Wesley Matthews, Mo Williams",
+                "away-players": "Monta Ellis, Vince Carter, Jose Calderon, Dirk Nowitzki, DeJuan Blair",
+                "event": {
+                    "category": "End of Period",
+                    "time": "00:12:00.011"
+                }
+            }]
+        }]
+    }
+}
