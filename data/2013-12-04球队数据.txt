@@ -1,0 +1,367 @@
+2013-12-04 DAL_CHA
+	AST: 16
+	DRB: 38
+	FGA: 82
+	FGM: 33
+	FTA: 17
+	FTM: 15O
+	RB: 7
+	OppDRB: 40
+	OppORB: 10
+	P3: 8
+	POSS: 91.48
+	PTS: 89
+	PTSPerPoss: 0.9728902492348054
+	TOV: 9
+	drb: 0.7916666666666666
+	efg: 0.45121951219512196
+	ft: 0.8823529411764706
+	ftr: 0.2073170731707317
+	orb: 0.14893617021276595
+	tov: 0.09138911454102355
+
+2013-12-05 NOP_DAL
+	AST: 25
+	DRB: 30
+	FGA: 86
+	FGM: 37
+	FTA: 22
+	FTM: 15
+	ORB: 8
+	OppDRB: 40
+	OppORB: 18
+	P3: 11
+	POSS: 94.68
+	PTS: 100
+	PTSPerPoss: 1.0561892691170256
+	TOV: 7
+	drb: 0.625
+	efg: 0.4941860465116279
+	ft: 0.6818181818181818
+	ftr: 0.2558139534883721
+	orb: 0.16666666666666666
+	tov: 0.06817296455005843
+
+2013-12-08 POR_DAL
+	AST: 26
+	DRB: 29
+	FGA: 87
+	FGM: 46
+	FTA: 11
+	FTM: 8
+	ORB: 7
+	OppDRB: 33
+	OppORB: 17
+	P3: 8
+	POSS: 96.84
+	PTS: 108
+	PTSPerPoss: 1.1152416356877324
+	TOV: 12
+	drb: 0.6304347826086957
+	efg: 0.5747126436781609
+	ft: 0.7272727272727273
+	ftr: 0.12643678160919541
+	orb: 0.175
+	tov: 0.11556240369799692
+
+2013-12-10 DAL_KINGS
+	AST: 22
+	DRB: 30
+	FGA: 95
+	FGM: 37
+	FTA: 20
+	FTM: 18
+	ORB: 9
+	OppDRB: 40
+	OppORB: 11
+	P3: 5
+	POSS: 110.8
+	PTS: 97
+	PTSPerPoss: 0.8754512635379061
+	TOV: 16
+	drb: 0.7317073170731707
+	efg: 0.41578947368421054
+	ft: 0.9
+	ftr: 0.21052631578947367
+	orb: 0.1836734693877551
+	tov: 0.1335559265442404
+
+2013-12-12 DAL_Warriors
+	AST: 24
+	DRB: 35
+	FGA: 88
+	FGM: 37
+	FTA: 14
+	FTM: 11
+	ORB: 8
+	OppDRB: 36
+	OppORB: 14
+	P3: 8
+	POSS: 97.16
+	PTS: 93
+	PTSPerPoss: 0.9571840263482915
+	TOV: 11
+	drb: 0.7142857142857143
+	efg: 0.4659090909090909
+	ft: 0.7857142857142857
+	ftr: 0.1590909090909091
+	orb: 0.18181818181818182
+	tov: 0.10460251046025106
+
+2013-12-10 POR_Jazz
+	AST: 23
+	DRB: 33
+	FGA: 85
+	FGM: 40
+	FTA: 20
+	FTM: 19
+	ORB: 11
+	OppDRB: 32
+	OppORB: 11
+	P3: 6POSS: 93.8
+	PTS: 105
+	PTSPerPoss: 1.119402985074627
+	TOV: 11
+	drb: 0.75
+	efg: 0.5058823529411764
+	ft: 0.95
+	ftr: 0.23529411764705882
+	orb: 0.2558139534883721
+	tov: 0.10496183206106871
+
+2013-12-13 POR_HOU
+	AST: 22
+	DRB: 37FGA: 89
+	FGM: 39FTA: 30
+	FTM: 25
+	ORB: 15
+	OppDRB: 33
+	OppORB: 15
+	P3: 8POSS: 101.2
+	PTS: 111
+	PTSPerPoss: 1.0968379446640315
+	TOV: 14
+	drb: 0.7115384615384616
+	efg: 0.48314606741573035
+	ft: 0.8333333333333334
+	ftr: 0.33707865168539325
+	orb: 0.3125
+	tov: 0.12048192771084337
+
+2013-12-07 POR_UTA
+	AST: 26
+	DRB: 33
+	FGA: 83
+	FGM: 46FTA: 24
+	FTM: 21
+	ORB: 17
+	OppDRB: 21
+	OppORB: 18
+	P3: 17
+	POSS: 97.56
+	PTS: 13
+	0PTSPerPoss: 1.3325133251332513
+	TOV: 21
+	drb: 0.6470588235294118
+	efg: 0.6566265060240963
+	ft: 0.875
+	ftr: 0.2891566265060241
+	orb: 0.4473684210526316
+	tov: 0.18331005586592178
+
+2013-12-05 	POR_OKC
+	AST: 22
+	DRB: 31
+	FGA: 98
+	FGM: 44
+	FTA: 17
+	FTM: 15
+	ORB: 16
+	OppDRB: 30
+	OppORB: 13
+	P3: 8
+	POSS: 100.48
+	PTS: 111
+	PTSPerPoss: 1.1046974522292994
+	TOV: 11
+	drb: 0.7045454545454546
+	efg: 0.4897959183673469
+	ft: 0.8823529411764706
+	ftr: 0.17346938775510204
+	orb: 0.34782608695652173
+	tov: 0.09443681318681318
+
+
+
+
+
+Allen Crabbe: 0
+C.J. McCollum: 0
+Damian Lillard: 15.679999999999998
+Dorell Wright: -4.92
+Earl Watson: 0
+Joel Freeland: 4.08
+LaMarcus Aldridge: 25.759999999999998
+Meyers Leonard: 0
+Mo Williams: 3.1199999999999997
+Nicolas Batum: 23.28
+Robin Lopez: 22.28
+Thomas Robinson: 13.2
+Victor Claver: 0
+Wesley Matthews: 13.68
+Will Barton: 0
+time: "POR1210"
+
+Allen Crabbe: 0
+C.J. McCollum: 0
+Damian Lillard: 2.3199999999999994
+Dorell Wright: 3.839999999999999
+Earl Watson: 0
+Joel Freeland: 3.56
+LaMarcus Aldridge: 48
+Meyers Leonard: 0
+Mo Williams: 10.6
+Nicolas Batum: 17.119999999999997
+Robin Lopez: 22.68
+Thomas Robinson: 0.43999999999999995
+Victor Claver: 0
+Wesley Matthews: 6.920000000000002
+Will Barton: 0
+time: "POR1213"
+
+
+Allen Crabbe: 4.879999999999999
+C.J. McCollum: 0
+Damian Lillard: 26.24
+Dorell Wright: 3.92
+Earl Watson: -0.16000000000000014
+Joel Freeland: 1.8400000000000007
+LaMarcus Aldridge: 33.199999999999996
+Meyers Leonard: 4.6
+Mo Williams: 8.32
+Nicolas Batum: 18.48
+Robin Lopez: 11.560000000000002
+Thomas Robinson: 14.479999999999999
+Victor Claver: 0
+Wesley Matthews: 18.720000000000002
+Will Barton: 3.1599999999999997
+time: "POR1207"
+
+Allen Crabbe: 0
+C.J. McCollum: 0
+Damian Lillard: 6.759999999999996
+Dorell Wright: 4.4
+Earl Watson: 0
+Joel Freeland: 4
+LaMarcus Aldridge: 46.43999999999999
+Meyers Leonard: 0
+Mo Williams: 5.480000000000001
+Nicolas Batum: 17.919999999999998
+Robin Lopez: 20.320000000000004
+homas Robinson: 3.999999999999999
+Victor Claver: 0
+esley Matthews: 8.240000000000002
+Will Barton: 0
+time: "POR1205"
+
+Allen Crabbe: 0
+C.J. McCollum: 0
+Damian Lillard: 26.4
+orell Wright: -2.2
+Earl Watson: 0
+Joel Freeland: 2.52
+LaMarcus Aldridge: 20.920000000000005
+Meyers Leonard: 0
+Mo Williams: 3.159999999999999
+Nicolas Batum: 18.4
+Robin Lopez: 26.400000000000002
+Thomas Robinson: 6.000000000000001
+Victor Claver: 0
+Wesley Matthews: 6.280000000000001
+Will Barton: 0l
+time: "POR1208"
+
+Bernard James: 7.600000000000001
+Brandan Wright: 0
+DeJuan Blair: 5.4
+Devin Harris: 0
+Dirk Nowitzki: 16.6
+Gal Mekel: -0.6000000000000001
+Jae Crowder: 5
+Jose Calderon: 7.760000000000001
+Monta Ellis: 18.48
+Ricky Ledo: 0
+amuel Dalembert: 3.04
+Shane Larkin: -3.12
+Shawn Marion: 13.120000000000001
+Vince Carter: 12.36
+Wayne Ellington: 0
+time: "DAL1204"
+
+Bernard James: 0
+Brandan Wright: 0
+DeJuan Blair: 7.839999999999998
+Devin Harris: 0
+Dirk Nowitzki: 23.36
+Gal Mekel: -0.20000000000000018
+Jae Crowder: 2.3200000000000007
+Jose Calderon: 9.600000000000001
+Monta Ellis: 21.52
+Ricky Ledo: 0
+Samuel Dalembert: 11.64
+Shane Larkin: 0
+Shawn Marion: 12.520000000000003
+Vince Carter: 17.28
+Wayne Ellington: 0.43999999999999995
+time: "DAL1205"
+
+Bernard James: 9.6
+Brandan Wright: 0
+DeJuan Blair: 2.88
+Devin Harris: 0
+Dirk Nowitzki: 23.679999999999996
+Gal Mekel: -4.84
+Jae Crowder: 5.559999999999999
+Jose Calderon: 5.64
+Monta Ellis: 16.44
+Ricky Ledo: 0
+Samuel Dalembert: 6.119999999999999
+Shane Larkin: 9.32
+Shawn Marion: 2.8000000000000007
+Vince Carter: 1.1999999999999997
+Wayne Ellington: 6.96
+time: "DAL1210"
+
+Bernard James: 0
+Brandan Wright: 0
+DeJuan Blair: 5.919999999999999
+Devin Harris: 0
+Dirk Nowitzki: 21.880000000000003
+Gal Mekel: 0
+Jae Crowder: 8
+Jose Calderon: 16.560000000000002
+Monta Ellis: 16.959999999999997
+Ricky Ledo: 0
+Samuel Dalembert: 2
+Shane Larkin: 3.2399999999999998
+Shawn Marion: 17.64
+Vince Carter: 6.679999999999998
+Wayne Ellington: 0
+time: "DAL1212"
+
+Bernard James: 9.16
+Brandan Wright: 0
+DeJuan Blair: 17.08
+Devin Harris: 0
+Dirk Nowitzki: 32.04
+Gal Mekel: 6.840000000000001
+Jae Crowder: 7.159999999999999
+Jose Calderon: 18.6
+onta Ellis: 11.360000000000001
+Ricky Ledo: 0
+Samuel Dalembert: 2S
+hane Larkin: 0
+hawn Marion: 6.48
+Vince Carter: 0.9200000000000004
+Wayne Ellington: 0
+time: "dal1208"
